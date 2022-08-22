@@ -1,4 +1,5 @@
-## 2022WTT支线赛·奥洛穆茨站（捷克）:cn:
+## 比赛对手资料
+## 2022WTT支线赛·奥洛穆茨站（捷克）
 
 You can use the [editor on GitHub](https://github.com/lybdisk/lybdisk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
