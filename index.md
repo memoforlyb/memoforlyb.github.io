@@ -8,7 +8,7 @@
 
 + 第一轮 对手 BAEK Kwangil（韩国 백광일）1993-07-01 右手横板 
   + 近期战绩
-    1. 韩国乒乓球锦标赛第4轮 1-3 负于对手 [백광일 VS 김병현](https://www.youtube.com/watch?v=nqS8jcGNgZU)
+    1. 韩国乒乓球锦标赛第4轮 1-3 负于对手 [BAEK Kwangil VS 김병현](https://www.youtube.com/watch?v=nqS8jcGNgZU)
     2. 韩国职业乒乓球联赛 [BAEK Kwangil 0-2 郑荣植](https://www.youtube.com/watch?v=KW-8n71meqw)
     3. 韩国职业乒乓球联赛 [BAEK Kwangil 0-2 Seong-il Jang](https://www.youtube.com/watch?v=PmaKfA-POGE)
     4. 韩国职业乒乓球联赛 [BAEK Kwangil 0-2 Jung-woo Park](https://www.youtube.com/watch?v=ApXjYr5XGJQ)
