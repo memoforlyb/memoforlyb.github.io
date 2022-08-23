@@ -1,5 +1,5 @@
 # 赛事纪录簿
-​:link: [https://memoforlyb.github.io/](https://memoforlyb.github.io/)
+链接 [https://memoforlyb.github.io/](https://memoforlyb.github.io/)
 
 ## 目录
 
