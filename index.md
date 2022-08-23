@@ -59,6 +59,23 @@
     16. 2022挑战者系列赛 [Jordy Piccolin 1-3 Guilherme Teodoro（巴西）](https://www.youtube.com/watch?v=Fv8cTu_72Dg)2022-03-07
     17. 2022挑战者系列赛 [Jordy Piccolin 0-3 Florian Bluhm（法国）](https://www.youtube.com/watch?v=vVmOJU_dSyY)2022-01-31
 
-  
++ 第三轮 刘夜泊 vs Pedro OSIRO（瑞士）
+  + 比赛时间：
+  + 比赛桌次：
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 对手信息：2001年11月8 日 右手横板
+  + 对手近期战绩
+    1. 2021ITTF芬兰公开赛 男单R16 [Pedro OSIRO 2-3 Alex Naumi (芬兰) ](https://www.youtube.com/watch?v=xgN6hbUZ8Ro)
+    2. 2021WTT常规赛拉斯科站 男单1/4决赛 [Pedro Osiro 0-3 Steffen Mengel(德国)](https://www.youtube.com/watch?v=UAuyYJNboDQ)
+    3. 某联赛 [Pedro Ryu Osiro Shinohara 3-0 Simon Huth](https://www.youtube.com/watch?v=DHvAMleOPwM)
+    4. 2020德国公开赛预赛 [Pedro Osiro 0-4 闫安](https://www.youtube.com/watch?v=Mf3i_Y_ZuNg)
 
++ 第三轮 刘夜泊 vs Artur GRELA（波兰）
+  + 比赛时间：
+  + 比赛桌次：
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 对手信息：2000年 右手横板
+  + 对手近期战绩
+    1. 2022波兰青年锦标赛 男单半决赛 [Artur Grela 4-0 Jan Zandecki](https://www.youtube.com/watch?v=sKmFwEoiNgM)
+    2. 2022波兰青年锦标赛 男单决赛 [Artur Grela 4-1 Samuel Kulczycki](https://www.youtube.com/watch?v=R9FErvceC2A)
 
