@@ -15,12 +15,13 @@
 
 ### 男单资格赛
 + 资格赛签表
-![image](https://user-images.githubusercontent.com/111751177/185928700-5d10e3a4-5fbc-48a9-8aab-0a25fafcdd49.png)
+![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png)
+
 
 + 第一轮 刘夜泊 vs BAEK Kwangil（韩国 白桄一백광일） 
   + 比赛时间：2022.8.23 16:45（北京时间）
   + 比赛桌次：T4
-  + 比赛结果：刘夜泊 3-1 BAEK Kwangil（9，-9，10，5） 
+  + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5）
   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png)
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1993-07-01 右手横板
@@ -35,8 +36,7 @@
     8. 韩国职业乒乓球联赛 [BAEK Kwangil 1-2 张禹珍](https://www.youtube.com/watch?v=B3pjgXSrwdA)
 
 + 第二轮 刘夜泊 vs Jordy PICCOLIN（意大利）
-  + 比赛时间：
-  + 比赛时间：（北京时间）
+  + 比赛时间：2022.8.23（北京时间）
   + 比赛桌次：T
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1997-07-06 左手横板
