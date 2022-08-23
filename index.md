@@ -23,7 +23,7 @@
   + 比赛桌次：T4
   + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5）
   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png)
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de)
   + 对手信息：1993-07-01 右手横板
   + 对手近期战绩
     1. 韩国乒乓球锦标赛第4轮 1-3 负于对手 [BAEK Kwangil VS 김병현](https://www.youtube.com/watch?v=nqS8jcGNgZU)
