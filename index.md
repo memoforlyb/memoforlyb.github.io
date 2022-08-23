@@ -36,8 +36,8 @@
     8. 韩国职业乒乓球联赛 [BAEK Kwangil 1-2 张禹珍](https://www.youtube.com/watch?v=B3pjgXSrwdA)
 
 + 第二轮 刘夜泊 vs Jordy PICCOLIN（意大利）
-  + 比赛时间：2022.8.23（北京时间）
-  + 比赛桌次：T
+  + 比赛时间：2022.8.24 02:45（北京时间）
+  + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1997-07-06 左手横板
   + 对手近期战绩
