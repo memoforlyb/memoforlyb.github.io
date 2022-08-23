@@ -17,9 +17,11 @@
 + 资格赛签表
 ![image](https://user-images.githubusercontent.com/111751177/185928700-5d10e3a4-5fbc-48a9-8aab-0a25fafcdd49.png)
 
-+ 第一轮 刘夜泊 vs BAEK Kwangil（韩国 백광일） 
++ 第一轮 刘夜泊 vs BAEK Kwangil（韩国 白桄一백광일） 
   + 比赛时间：2022.8.23 16:45（北京时间）
   + 比赛桌次：T4
+  + 比赛结果：刘夜泊 3-1 BAEK Kwangil（9，-9，10，5） 
+  ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png)
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1993-07-01 右手横板
   + 对手近期战绩
