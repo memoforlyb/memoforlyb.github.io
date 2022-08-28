@@ -7,6 +7,8 @@
 
 
 ## 2022WTT支线赛·奥洛穆茨站（捷克） 
+>赛事官网：https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541
+>
 >比赛日期：2022.8.23-2022.8.28
 >
 >时差：北京时间-6h
@@ -38,7 +40,9 @@
 + 第二轮 刘夜泊 vs Jordy PICCOLIN（意大利）
   + 比赛时间：2022.8.24 02:45（北京时间）
   + 比赛桌次：T2
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 比赛结果：**刘夜泊 0-3 Jordy PICCOLIN** （-9，-8，-8）
+  ![image](https://user-images.githubusercontent.com/111751177/187055643-4af4f285-e087-4e33-b90f-377b0635b9ed.png)
+  + 视频回放：[WTT支线赛奥洛穆茨站【全场回放】二号桌（下）](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000263206)
   + 对手信息：1997-07-06 左手横板
   + 对手近期战绩
     1. 欧洲锦标赛 小组赛 Jordy PICCOLIN 3-0 RADOVIĆ Filip（黑山）（08-14）无视频
@@ -58,7 +62,3 @@
     15. 2022挑战者系列赛 [Jordy Piccolin 1-3 Ryu Hiruta（日本）](https://www.youtube.com/watch?v=XxtUeTQ-LXA)2022-03-08
     16. 2022挑战者系列赛 [Jordy Piccolin 1-3 Guilherme Teodoro（巴西）](https://www.youtube.com/watch?v=Fv8cTu_72Dg)2022-03-07
     17. 2022挑战者系列赛 [Jordy Piccolin 0-3 Florian Bluhm（法国）](https://www.youtube.com/watch?v=vVmOJU_dSyY)2022-01-31
-
-  
-
-
