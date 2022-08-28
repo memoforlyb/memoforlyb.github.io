@@ -11,7 +11,7 @@
 
 [2022WTT支线赛·奥洛穆茨站（捷克）](#2022WTT支线赛·奥洛穆茨站（捷克）)<span id="2022WTT支线赛·奥洛穆茨站（捷克）"></span>
 ## 2022WTT支线赛·奥洛穆茨站（捷克）
->赛事官网：https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541
+>赛事官网：[https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541](https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541)
 >
 >比赛日期：2022.8.23-2022.8.28
 >
@@ -70,7 +70,7 @@
 ---
 [2022WTT支线赛·帕纳久利士特站（保加利亚）](#2022WTT支线赛·帕纳久利士特站（保加利亚）)<span id="2022WTT支线赛·帕纳久利士特站（保加利亚）"></span>
 ## 2022WTT支线赛·帕纳久利士特站（保加利亚）
->赛事官网：https://worldtabletennis.com/eventInfo?eventId=2542
+>赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2542](https://worldtabletennis.com/eventInfo?eventId=2542)
 >
 >比赛日期：2022.8.30-2022.9.4
 >
