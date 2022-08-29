@@ -82,31 +82,39 @@
 >
 >场馆：Arena Asarel Panagyurishte, Bulgaria
 
-<!-- ### 男单资格赛 -->
-<!-- + 资格赛签表 -->
-<!-- ![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png) -->
+### 男单资格赛
++ 资格赛签表
 
-<!-- + 第一轮 刘夜泊 vs （）  -->
+
+![image](https://user-images.githubusercontent.com/111751177/187177762-7d602a6d-9fde-45b6-82da-935fa3abb787.png)
+
++ 第一轮 刘夜泊 vs 严升 
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 对手信息：1997-01-16 右手直板正胶
+  + 对手近期战绩：
+    1. [2022WTT支线赛·奥洛穆茨站资格赛第二轮 严升1-3曹巍](http://m.miguvideo.com/mgs/share/livingWidget/prd/home.html?sharefrom=miguvideoapp&channelid=10010001004&mgdbid=120000263206&cid=742725129&sysfrom=ios&appfrom=miguvideo&pwId=4672c7bec4fe4c6fac911827ecd2d4a6) 四号桌（下），46分左右
 <!--   + 比赛时间：（北京时间） -->
 <!--   + 比赛桌次：T -->
 <!--   + 比赛结果：**刘夜泊 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
 <!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
-<!--   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html) -->
-<!--   + 对手信息： -->
-<!--   + 对手近期战绩 -->
 
-<!-- ### 混双资格赛 -->
-<!-- + 资格赛签表 -->
-<!-- ![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png) -->
 
-<!-- + 第一轮 刘夜泊/李雨琪 vs （）  -->
+### 混双资格赛
++ 资格赛签表
+
+
+![image](https://user-images.githubusercontent.com/111751177/187179062-dc6bab30-894d-4b7b-aaf1-b822747ea931.png)
+
+
++ 第一轮 刘夜泊/李雨琪 vs Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU （希腊） 
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
 <!--   + 比赛时间：（北京时间） -->
 <!--   + 比赛桌次：T -->
 <!--   + 比赛结果：**刘夜泊/李雨琪 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
 <!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
-<!--   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html) -->
+  
 <!--   + 对手信息： -->
 <!--   + 对手近期战绩 -->
 
