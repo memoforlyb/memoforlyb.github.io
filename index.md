@@ -13,6 +13,8 @@
 ## 2022WTT支线赛·奥洛穆茨站（捷克）
 >赛事官网：[https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541](https://worldtabletennis.com/eventInfo?selectedTab=Overview&eventId=2541)
 >
+>参赛项目：男单
+>
 >比赛日期：2022.8.23-2022.8.28
 >
 >时差：北京时间-6h
@@ -72,13 +74,15 @@
 ## 2022WTT支线赛·帕纳久利士特站（保加利亚）
 >赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2542](https://worldtabletennis.com/eventInfo?eventId=2542)
 >
+>参赛项目：男单、混双（搭档李雨琪）
+>
 >比赛日期：2022.8.30-2022.9.4
 >
 >时差：北京时间-5h
 >
 >场馆：Arena Asarel Panagyurishte, Bulgaria
 
-### 男单资格赛
+<!-- ### 男单资格赛 -->
 <!-- + 资格赛签表 -->
 <!-- ![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png) -->
 
@@ -86,6 +90,20 @@
 <!--   + 比赛时间：（北京时间） -->
 <!--   + 比赛桌次：T -->
 <!--   + 比赛结果：**刘夜泊 **（） -->
+<!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
+<!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
+<!--   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html) -->
+<!--   + 对手信息： -->
+<!--   + 对手近期战绩 -->
+
+<!-- ### 混双资格赛 -->
+<!-- + 资格赛签表 -->
+<!-- ![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png) -->
+
+<!-- + 第一轮 刘夜泊/李雨琪 vs （）  -->
+<!--   + 比赛时间：（北京时间） -->
+<!--   + 比赛桌次：T -->
+<!--   + 比赛结果：**刘夜泊/李雨琪 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
 <!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
 <!--   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html) -->
