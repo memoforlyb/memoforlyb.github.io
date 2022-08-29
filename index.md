@@ -100,7 +100,7 @@
     3. [2021乒超联赛 严升 0-3 林高远](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716476509)
     4. [2021乒超联赛 严升 0-3 周雨](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716427465)
     5. [2021乒超联赛 严升 0-3 袁励岑](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716378838)
-    6. [2020国乒奥运模拟赛 严升 0-3 赵钊彦](https://vod.cctv.cn/cctv/cctvsportsshare/video/video.html?id=VIDE1596894463224995)
+    6. [2020国乒奥运模拟赛 严升 0-3 赵钊彦](https://sports.cctv.com/2020/08/08/VIDE1x2uH6xFJ2gc8HD8hm0r200808.shtml)
   
 <!--   + 比赛结果：**刘夜泊 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
