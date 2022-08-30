@@ -23,14 +23,15 @@
 
 ### 男单资格赛
 #### 资格赛签表
-![image](https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png)
 
+<center><img src="https://user-images.githubusercontent.com/111751177/186127204-2344b558-a805-4092-b015-eaea5789b413.png" width="70%"></center>
 
 #### 第一轮 刘夜泊 vs BAEK Kwangil（韩国 白桄一백광일） 
+  + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5）
+  <center><img src="https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png" width="70%"></center>
+
   + 比赛时间：2022.8.23 16:45（北京时间）
   + 比赛桌次：T4
-  + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5）
-  ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png)
   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de)
   + 对手信息：1993-07-01 右手横板
   + 对手近期战绩
@@ -44,10 +45,11 @@
     8. 韩国职业乒乓球联赛 [BAEK Kwangil 1-2 张禹珍](https://www.youtube.com/watch?v=B3pjgXSrwdA)
 
 #### 第二轮 刘夜泊 vs Jordy PICCOLIN（意大利）
+  + 比赛结果：**刘夜泊 0-3 Jordy PICCOLIN** （-9，-8，-8）
+  <center><img src="https://user-images.githubusercontent.com/111751177/187055643-4af4f285-e087-4e33-b90f-377b0635b9ed.png" width="70%"></center>
+  
   + 比赛时间：2022.8.24 02:45（北京时间）
   + 比赛桌次：T2
-  + 比赛结果：**刘夜泊 0-3 Jordy PICCOLIN** （-9，-8，-8）
-  ![image](https://user-images.githubusercontent.com/111751177/187055643-4af4f285-e087-4e33-b90f-377b0635b9ed.png)
   + 视频回放：[WTT支线赛奥洛穆茨站【全场回放】二号桌（下）](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000263206)
   + 对手信息：1997-07-06 左手横板
   + 对手近期战绩
@@ -85,12 +87,14 @@
 ### 男单资格赛
 #### 资格赛签表
 
+<center><img src="https://user-images.githubusercontent.com/111751177/187457440-aff4f0a0-255f-47cc-8fdb-40125a5d4aa1.png" width="70%"></center>
 
-![image](https://user-images.githubusercontent.com/111751177/187177762-7d602a6d-9fde-45b6-82da-935fa3abb787.png)
-
-#### 第一轮 刘夜泊 vs 严升 
-![image](https://user-images.githubusercontent.com/111751177/187212770-0597b77c-ea10-42e7-967f-e56117b69ef5.png)
-  + 比赛时间：21:25（北京时间）
+#### 第一轮 刘夜泊 vs 严升
+  + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2）
+  <center><img src="https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png" width="70%"></center>
+  
+  
+  + 比赛时间：2022.8.30 21:25（北京时间）
   + 比赛桌次：T4 
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1997-01-16 右手直板正胶
@@ -101,23 +105,34 @@
     4. [2021乒超联赛 严升 0-3 周雨](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716427465)
     5. [2021乒超联赛 严升 0-3 袁励岑](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716378838)
     6. [2020国乒奥运模拟赛 严升 0-3 赵钊彦](https://sports.cctv.com/2020/08/08/VIDE1x2uH6xFJ2gc8HD8hm0r200808.shtml)
-  
-<!--   + 比赛结果：**刘夜泊 **（） -->
-<!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
-<!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
+
+#### 第二轮 刘夜泊 vs Pedro OSIRO（瑞士）
+
+<!--   + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2） -->
+<!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
+  + 比赛时间：2022.8.31 未定（北京时间）
+  + 比赛桌次：未定 
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 对手信息：2001-11-08 右手横板
+  + 对手近期战绩：
+    1. 2021ITTF芬兰公开赛 男单R16 [Pedro OSIRO 2-3 Alex Naumi (芬兰) ](https://www.youtube.com/watch?v=xgN6hbUZ8Ro)
+    2. 2021WTT常规赛拉斯科站 男单1/4决赛 [Pedro Osiro 0-3 Steffen Mengel(德国)](https://www.youtube.com/watch?v=UAuyYJNboDQ)
+    3. 某联赛 [Pedro Ryu Osiro Shinohara 3-0 Simon Huth](https://www.youtube.com/watch?v=DHvAMleOPwM)
+    4. 2020德国公开赛预赛 [Pedro Osiro 0-4 闫安](https://www.youtube.com/watch?v=Mf3i_Y_ZuNg)
 
 
 ### 混双资格赛
 #### 资格赛签表
 
-
-![image](https://user-images.githubusercontent.com/111751177/187179062-dc6bab30-894d-4b7b-aaf1-b822747ea931.png)
+<center><img src="https://user-images.githubusercontent.com/111751177/187179062-dc6bab30-894d-4b7b-aaf1-b822747ea931.png" width="70%"></center>
 
 
 #### 第一轮 刘夜泊/李雨琪 vs Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU （希腊） 
+<center><img src="https://user-images.githubusercontent.com/111751177/187456662-5ef24eb4-d746-4c63-bd43-ca825b5e5303.png" width="70%"></center>
+
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
-<!--   + 比赛时间：（北京时间） -->
-<!--   + 比赛桌次：T -->
+  + 比赛时间：2022.8.31 15:00（北京时间）
+  + 比赛桌次：T1
 <!--   + 比赛结果：**刘夜泊/李雨琪 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png) -->
 <!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
