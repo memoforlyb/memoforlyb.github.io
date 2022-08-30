@@ -96,7 +96,7 @@
   
   + 比赛时间：2022.8.30 21:25（北京时间）
   + 比赛桌次：T4 
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛 严升1:3刘夜泊](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743720420&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=6c38419aedea4a6aa81a12b201602ff3)
   + 对手信息：1997-01-16 右手直板正胶
   + 对手近期战绩：
     1. [2022WTT支线赛·奥洛穆茨站资格赛第二轮 严升1-3曹巍](https://www.bilibili.com/video/BV1F14y1x7QN) 
