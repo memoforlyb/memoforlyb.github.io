@@ -153,5 +153,4 @@
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：梁俨苧 2001-02-03 右手横板；冷雨桐 2004-08-01 左手横版
   + 对手近期战绩：
-    1. [2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中国台北）](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743885824&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=e2f28ddc8d7b45abb9fe42c589165985)
 
