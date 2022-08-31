@@ -111,7 +111,7 @@
 
   + 比赛时间：2022.8.31 23:00（北京时间）
   + 比赛桌次：T4 
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛Day2男单回放：刘夜泊3:1奥斯洛](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743952925&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=7a30331cded24e649be5d09d62249ac3)
   + 对手信息：2001-11-08 右手横板
   + 对手近期战绩：
     1. 2022WTT支线赛·奥洛穆茨站（捷克）资格赛 第二轮 Pedro OSIRO 0-3 Artur GRELA（波兰）
@@ -126,12 +126,12 @@
 
 #### 第三轮 刘夜泊 vs Konstantinos KONSTANTINOPOULOS（希腊）
 
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/187471391-8c54d405-aac9-43e4-a8b2-b4e85bcbf467.png" width="70%"></center> -->
+<center><img src="https://user-images.githubusercontent.com/111751177/187728362-8990c9cb-aea9-415e-9cbe-989327b9827c.png" width="70%"></center>
 
 <!--   + 比赛结果：**刘夜泊 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
-  + 比赛时间：2022.9.1 （北京时间）
-  + 比赛桌次：T 
+  + 比赛时间：2022.9.1 20:45（北京时间）
+  + 比赛桌次：T4
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：1994 左手横板
   + 对手近期战绩：
