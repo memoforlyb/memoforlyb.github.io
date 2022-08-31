@@ -117,10 +117,15 @@
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：2001-11-08 右手横板
   + 对手近期战绩：
-    1. 2021ITTF芬兰公开赛 男单R16 [Pedro OSIRO 2-3 Alex Naumi (芬兰) ](https://www.youtube.com/watch?v=xgN6hbUZ8Ro)
-    2. 2021WTT常规赛拉斯科站 男单1/4决赛 [Pedro Osiro 0-3 Steffen Mengel(德国)](https://www.youtube.com/watch?v=UAuyYJNboDQ)
-    3. 某联赛 [Pedro Ryu Osiro Shinohara 3-0 Simon Huth](https://www.youtube.com/watch?v=DHvAMleOPwM)
-    4. 2020德国公开赛预赛 [Pedro Osiro 0-4 闫安](https://www.youtube.com/watch?v=Mf3i_Y_ZuNg)
+    1. 2022WTT支线赛·奥洛穆茨站（捷克）资格赛 第二轮 Pedro OSIRO 0-3 Artur GRELA（波兰）
+    2. 2022WTT支线赛·奥托塞克站（斯洛文尼亚）资格赛 第一轮 Pedro OSIRO 0-3 鲍奕文（中国香港）
+    3. 2022WTT支线赛·萨格勒布站（克罗地亚）资格赛 第一轮 Pedro OSIRO 0-3 Dimitrije LEVAJAC（塞尔维亚）
+    4. WTT支线赛·杜塞尔多夫II 资格赛 第二轮 Pedro OSIRO 1-3 Csaba ANDRAS（匈牙利）
+    5. WTT支线赛·杜塞尔多夫II 资格赛 第一轮 Pedro OSIRO 3-0 Dillon CHAMBERS  （澳大利亚）
+    6. 2021ITTF芬兰公开赛 男单R16 [Pedro OSIRO 2-3 Alex Naumi (芬兰) ](https://www.youtube.com/watch?v=xgN6hbUZ8Ro)
+    7. 2021WTT常规赛拉斯科站 男单1/4决赛 [Pedro Osiro 0-3 Steffen Mengel(德国)](https://www.youtube.com/watch?v=UAuyYJNboDQ)
+    8. 某联赛 [Pedro Ryu Osiro Shinohara 3-0 Simon Huth](https://www.youtube.com/watch?v=DHvAMleOPwM)
+    9. 2020德国公开赛预赛 [Pedro Osiro 0-4 闫安](https://www.youtube.com/watch?v=Mf3i_Y_ZuNg)
 
 
 ### 混双资格赛
