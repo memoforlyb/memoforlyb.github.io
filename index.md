@@ -144,12 +144,12 @@
   
 #### 第二轮 刘夜泊/李雨琪 vs 梁俨苧/冷雨桐
 
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/187471391-8c54d405-aac9-43e4-a8b2-b4e85bcbf467.png" width="70%"></center> -->
+<center><img src="https://user-images.githubusercontent.com/111751177/187715293-25814a59-6edf-4c35-a0ba-9804d953ca71.png" width="70%"></center>
 
 <!--   + 比赛结果：**刘夜泊 **（） -->
 <!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
-  + 比赛时间：2022.9.1 （北京时间）
-  + 比赛桌次： 
+  + 比赛时间：2022.9.1 17:20（北京时间）
+  + 比赛桌次：T4
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：梁俨苧 2001-02-03 右手横板；冷雨桐 2004-08-01 左手横版
   + 对手近期战绩：
