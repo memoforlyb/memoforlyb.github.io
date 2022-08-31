@@ -117,6 +117,7 @@
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
   + 对手信息：2001-11-08 右手横板
   + 对手近期战绩：
+    1. [2022WTT支线赛· 帕纳久里什泰站（保加利亚） 资格赛 第一轮 Pedro OSIRO 3-1 Rafael DE LAS HERAS（西班牙）](http://m.miguvideo.com/mgs/share/livingWidget/prd/home.html?sharefrom=miguvideoapp&channelid=10010001004&mgdbid=120000264810&cid=743739340&sysfrom=ios&appfrom=miguvideo#/detail)全场回放1号桌 2:08:43开始
     1. 2022WTT支线赛·奥洛穆茨站（捷克）资格赛 第二轮 Pedro OSIRO 0-3 Artur GRELA（波兰）
     2. 2022WTT支线赛·奥托塞克站（斯洛文尼亚）资格赛 第一轮 Pedro OSIRO 0-3 鲍奕文（中国香港）
     3. 2022WTT支线赛·萨格勒布站（克罗地亚）资格赛 第一轮 Pedro OSIRO 0-3 Dimitrije LEVAJAC（塞尔维亚）
