@@ -140,15 +140,18 @@
 
   + 比赛时间：2022.8.31 15:00（北京时间）
   + 比赛桌次：T1
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛：刘夜泊/李兩琪3:0康斯坦迪诺普洛斯/特尔普](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743879885&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=a4924c9fe15e4ea09a935dc8afb6e4ad)
+  
+#### 第二轮 刘夜泊/李雨琪 vs 梁俨苧/冷雨桐
+
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/187471391-8c54d405-aac9-43e4-a8b2-b4e85bcbf467.png" width="70%"></center> -->
+
+<!--   + 比赛结果：**刘夜泊 **（） -->
+<!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
+  + 比赛时间：2022.9.1 （北京时间）
+  + 比赛桌次： 
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
-  
+  + 对手信息：梁俨苧 2001-02-03 右手横板；冷雨桐 2004-08-01 左手横版
+  + 对手近期战绩：
+    1. 2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中华台北）（视频待更新）
 
-
-<!--   + 视频回放：[2022WTT支线系列赛奥洛穆茨站资格赛Day1男单回放：刘夜泊3:1白桄一](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=742693350&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=0acbca91e71346a89cc02dd57ff454de) -->
-  
-<!--   + 对手信息： -->
-<!--   + 对手近期战绩 -->
-
-<!-- --- -->
-<!-- [2022WTT常规赛·马斯喀特站（阿曼）](#2022WTT常规赛·马斯喀特站（阿曼）)<span id="2022WTT常规赛·马斯喀特站（阿曼）"></span> -->
-<!-- ## 2022WTT常规赛·马斯喀特站（阿曼） -->
