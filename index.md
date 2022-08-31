@@ -131,7 +131,7 @@
 ### 混双资格赛
 #### 资格赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/187179062-dc6bab30-894d-4b7b-aaf1-b822747ea931.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/187636219-8be2df11-a086-4702-aca5-ad627b445831.png" width="70%"></center>
 
 
 #### 第一轮 刘夜泊/李雨琪 vs Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU （希腊） 
