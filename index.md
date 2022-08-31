@@ -135,9 +135,9 @@
 
 
 #### 第一轮 刘夜泊/李雨琪 vs Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU （希腊） 
-<center><img src="https://user-images.githubusercontent.com/111751177/187456662-5ef24eb4-d746-4c63-bd43-ca825b5e5303.png" width="70%"></center>
+  + 比赛结果：**刘夜泊/李雨琪 3-0 Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU**（6,8,3）
+  <center><img src="https://user-images.githubusercontent.com/111751177/187618502-2463ae32-a5d8-4a0d-ae3a-c8c61e223fc5.png" width="70%"></center>
 
-<!--   + 比赛结果：**刘夜泊/李雨琪 **（） -->
   + 比赛时间：2022.8.31 15:00（北京时间）
   + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
