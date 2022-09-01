@@ -165,11 +165,6 @@
     6. 2022WTT支线赛·奥洛穆茨站 1/16决赛 朴康贤 4-0 Leo DE NODREST（法国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743201410)开头就是
     7. 2022WTT支线赛·奥洛穆茨站 正赛第一轮 朴康贤 4-0 周哲宇（新加坡）[无视频]()
     8. 2022WTT支线赛·奥洛穆茨站 资格赛第四轮 朴康贤 3-2 曹巍（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=742886879)
-    9. [2021全运会 严升 0-4 王楚钦](https://www.bilibili.com/video/BV1nU4y1A7HL?spm_id_from=333.337.search-card.all.click&vd_source=28e26b45e5d0e788455bfe997aa60495)
-    10. [2021乒超联赛 严升 0-3 林高远](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716476509)
-    11. [2021乒超联赛 严升 0-3 周雨](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716427465)
-    12. [2021乒超联赛 严升 0-3 袁励岑](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716378838)
-    13. [2020国乒奥运模拟赛 严升 0-3 赵钊彦](https://sports.cctv.com/2020/08/08/VIDE1x2uH6xFJ2gc8HD8hm0r200808.shtml)
 
 ### 混双资格赛
 #### 资格赛签表
