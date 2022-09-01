@@ -88,7 +88,7 @@
 ### 男单资格赛
 #### 资格赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/187719089-df8c543a-f192-4947-995e-82f5766c3111.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/187932906-5e9c1f93-97cd-4b7b-b235-5fd045f4d31d.png" width="70%"></center>
 
 #### 第一轮 刘夜泊 vs 严升
   + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2）
@@ -126,14 +126,12 @@
     9. 2020德国公开赛预赛 [Pedro Osiro 0-4 闫安](https://www.youtube.com/watch?v=Mf3i_Y_ZuNg)
 
 #### 第三轮 刘夜泊 vs Konstantinos KONSTANTINOPOULOS（希腊）
+  + 比赛结果：**刘夜泊 3-0 Konstantinos KONSTANTINOPOULOS**（12,6,12）
+<center><img src="https://user-images.githubusercontent.com/111751177/187933162-877fa6ca-08e8-4624-bad0-cf1b070efd93.png" width="70%"></center>
 
-<center><img src="https://user-images.githubusercontent.com/111751177/187728362-8990c9cb-aea9-415e-9cbe-989327b9827c.png" width="70%"></center>
-
-<!--   + 比赛结果：**刘夜泊 **（） -->
-<!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
   + 比赛时间：2022.9.1 20:45（北京时间）
   + 比赛桌次：T4
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛 刘夜泊 3:0 康斯坦迪诺普洛斯](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744120597)
   + 对手信息：1994 左手横板
   + 对手近期战绩：
     1. 2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第二轮 Konstantinos KONSTANTINOPOULOS 3-0 Miguel NUNEZ（西班牙）
@@ -145,10 +143,37 @@
     3. [2022WTT支线赛·萨格勒布站（克罗地亚）资格赛 第一轮 Konstantinos Konstantinopoulos 0-3 Florent Lambiet（比利时）](https://www.youtube.com/watch?v=w097aFskrS0)
 
 
+### 男单正赛
+
+<center><img src="https://user-images.githubusercontent.com/111751177/187937813-6cf2f3c7-99f5-43d0-9f7c-450f8c5351bf.png" width="70%"></center>
+
+#### 第一轮 刘夜泊 vs 朴康贤（韩国）
+
+<!--   + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2） -->
+<!--   <center><img src="https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png" width="70%"></center> -->
+  
+  + 比赛时间：2022.9.2 18:05（北京时间）
+  + 比赛桌次：
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：1996-06-22 左手横板
+  + 对手近期战绩：
+    1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743738728)（开头就是） 
+    2. 2022WTT支线赛·帕纳久里什泰站 资格赛 第二轮 朴康贤 3-0 马昆廷（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743957005) 02:48:13开始
+    3. 2022WTT支线赛·帕纳久里什泰站 资格赛 第一轮 朴康贤 3-0 PARK Chan-Hyeok（韩国）[视频]() 
+    4. 2022WTT支线赛·奥洛穆茨站 1/4决赛 朴康贤 3-4 赵成敏（韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743307947)01:05:19开始
+    5. 2022WTT支线赛·奥洛穆茨站 1/8决赛 朴康贤 4-1 CHOI Inhyeok  （韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743241333)17:50开始
+    6. 2022WTT支线赛·奥洛穆茨站 1/16决赛 朴康贤 4-0 Leo DE NODREST（法国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743201410)开头就是
+    7. 2022WTT支线赛·奥洛穆茨站 正赛第一轮 朴康贤 4-0 周哲宇（新加坡）[无视频]()
+    8. 2022WTT支线赛·奥洛穆茨站 资格赛第四轮 朴康贤 3-2 曹巍（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=742886879)
+    9. [2021全运会 严升 0-4 王楚钦](https://www.bilibili.com/video/BV1nU4y1A7HL?spm_id_from=333.337.search-card.all.click&vd_source=28e26b45e5d0e788455bfe997aa60495)
+    10. [2021乒超联赛 严升 0-3 林高远](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716476509)
+    11. [2021乒超联赛 严升 0-3 周雨](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716427465)
+    12. [2021乒超联赛 严升 0-3 袁励岑](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=716378838)
+    13. [2020国乒奥运模拟赛 严升 0-3 赵钊彦](https://sports.cctv.com/2020/08/08/VIDE1x2uH6xFJ2gc8HD8hm0r200808.shtml)
+
 ### 混双资格赛
 #### 资格赛签表
-
-<center><img src="https://user-images.githubusercontent.com/111751177/187636219-8be2df11-a086-4702-aca5-ad627b445831.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/187934265-b2455c7b-3069-4ee7-91cb-2cba7d3d3106.png" width="70%"></center>
 
 
 #### 第一轮 刘夜泊/李雨琪 vs Konstantinos KONSTANTINOPOULOS/Elisavet TERPOU （希腊） 
@@ -160,14 +185,12 @@
   + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛：刘夜泊/李兩琪3:0康斯坦迪诺普洛斯/特尔普](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743879885&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=a4924c9fe15e4ea09a935dc8afb6e4ad)
   
 #### 第二轮 刘夜泊/李雨琪 vs 梁俨苧/冷雨桐
+  + 比赛结果：**刘夜泊/李雨琪 1-3 梁俨苧/冷雨桐**（-6,9,-8,-13）
+<center><img src="https://user-images.githubusercontent.com/111751177/187933785-db7f8db8-b371-4e8e-999f-3beb0105fd2a.png" width="70%"></center>
 
-<center><img src="https://user-images.githubusercontent.com/111751177/187715293-25814a59-6edf-4c35-a0ba-9804d953ca71.png" width="70%"></center>
-
-<!--   + 比赛结果：**刘夜泊 **（） -->
-<!--   ![image](https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png) -->
   + 比赛时间：2022.9.1 17:20（北京时间）
   + 比赛桌次：T4
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportMatchDetail.html)
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站资格赛 刘夜泊/李雨琪1:3梁俨苧/冷雨桐](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744113396)
   + 对手信息：梁俨苧 2001-02-03 右手横板；冷雨桐 2004-08-01 左手横版
   + 对手近期战绩：
     1. [2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中国台北）](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743885824&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=e2f28ddc8d7b45abb9fe42c589165985)
