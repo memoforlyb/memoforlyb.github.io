@@ -138,10 +138,10 @@
   + 对手近期战绩：
     1. 2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第二轮 Konstantinos KONSTANTINOPOULOS 3-0 Miguel NUNEZ（西班牙）
         + **咪咕**[Konstantinos KONSTANTINOPOULOS 3-0 Miguel NUNEZ（西班牙）](http://m.miguvideo.com/mgs/share/livingWidget/prd/home.html?sharefrom=miguvideoapp&channelid=10010001004&mgdbid=120000264812&cid=743962436&sysfrom=ios&appfrom=miguvideo&pwId=134d4906a3874fe38d305c750ed5400b) 全场回放3号桌 40:00左右
-        + **YouTube**[WTT Feeder Panagyurishte 2022 | Qualifying Day 2 | Table 3 资格赛 第二轮 Konstantinos KONSTANTINOPOULOS 3-0 Miguel NUNEZ（西班牙）](https://youtu.be/84kDiv10hQs) 3:39:52左右
+        + **YouTube**[Konstantinos KONSTANTINOPOULOS 3-0 Miguel NUNEZ（西班牙）](https://youtu.be/84kDiv10hQs) 3:39:52左右
     2. 2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 Konstantinos KONSTANTINOPOULOS 3-1 Rafael DE LAS HERAS（西班牙）
-        + **咪咕**[Konstantinos KONSTANTINOPOULOS 3-1 Rafael DE LAS HERAS（西班牙）](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000264810)全场回放1号桌 02:08:30左右
-        + **YouTube**[WTT Feeder Panagyurishte 2022 | Qualifying Day 1 | Table 1 Konstantinos KONSTANTINOPOULOS 3-1 Rafael DE LAS HERAS（西班牙）](https://youtu.be/RaqwuvdImHk)03:07:08左右
+        + **咪咕**[Konstantinos KONSTANTINOPOULOS 3-1 Rafael DE LAS HERAS（西班牙）](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000264810) 全场回放1号桌 02:08:30左右
+        + **YouTube**[Konstantinos KONSTANTINOPOULOS 3-1 Rafael DE LAS HERAS（西班牙）](https://youtu.be/RaqwuvdImHk) 03:07:08左右
     3. [2022WTT支线赛·萨格勒布站（克罗地亚）资格赛 第一轮 Konstantinos Konstantinopoulos 0-3 Florent Lambiet（比利时）](https://www.youtube.com/watch?v=w097aFskrS0)
 
 
