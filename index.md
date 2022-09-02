@@ -153,13 +153,13 @@
 <!--   <center><img src="https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png" width="70%"></center> -->
   
   + 比赛时间：2022.9.2 18:05（北京时间）
-  + 比赛桌次：
+  + 比赛桌次：T3
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：1996-06-22 左手横板
   + 对手近期战绩：
-    1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743738728)（开头就是） 
+    1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744140621)01:57:13开始
     2. 2022WTT支线赛·帕纳久里什泰站 资格赛 第二轮 朴康贤 3-0 马昆廷（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743957005) 02:48:13开始
-    3. 2022WTT支线赛·帕纳久里什泰站 资格赛 第一轮 朴康贤 3-0 PARK Chan-Hyeok（韩国）[视频]() 
+    3. 2022WTT支线赛·帕纳久里什泰站 资格赛 第一轮 朴康贤 3-0 PARK Chan-Hyeok（韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743738728) （开头就是） 
     4. 2022WTT支线赛·奥洛穆茨站 1/4决赛 朴康贤 3-4 赵成敏（韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743307947)01:05:19开始
     5. 2022WTT支线赛·奥洛穆茨站 1/8决赛 朴康贤 4-1 CHOI Inhyeok  （韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743241333)17:50开始
     6. 2022WTT支线赛·奥洛穆茨站 1/16决赛 朴康贤 4-0 Leo DE NODREST（法国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743201410)开头就是
