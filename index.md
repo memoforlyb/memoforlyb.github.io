@@ -148,6 +148,7 @@
 <center><img src="https://user-images.githubusercontent.com/111751177/187937813-6cf2f3c7-99f5-43d0-9f7c-450f8c5351bf.png" width="70%"></center>
 
 #### 第一轮 刘夜泊 vs 朴康贤（韩国）
+<center><img src="https://user-images.githubusercontent.com/111751177/188037973-887e5f46-1846-492d-9e72-e24d64caeb28.png" width="70%"></center>
 
 <!--   + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2） -->
 <!--   <center><img src="https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png" width="70%"></center> -->
