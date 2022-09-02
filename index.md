@@ -157,14 +157,14 @@
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：1996-06-22 左手横板
   + 对手近期战绩：
-    1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744140621)01:57:13开始
-    2. 2022WTT支线赛·帕纳久里什泰站 资格赛 第二轮 朴康贤 3-0 马昆廷（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743957005) 02:48:13开始
-    3. 2022WTT支线赛·帕纳久里什泰站 资格赛 第一轮 朴康贤 3-0 PARK Chan-Hyeok（韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743738728) （开头就是） 
-    4. 2022WTT支线赛·奥洛穆茨站 1/4决赛 朴康贤 3-4 赵成敏（韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743307947)01:05:19开始
-    5. 2022WTT支线赛·奥洛穆茨站 1/8决赛 朴康贤 4-1 CHOI Inhyeok  （韩国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743241333)17:50开始
-    6. 2022WTT支线赛·奥洛穆茨站 1/16决赛 朴康贤 4-0 Leo DE NODREST（法国）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743201410)开头就是
+    1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[2022WTT支线系列赛帕纳久里什泰站资格赛Day3一号桌全场回放（下）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744140621)01:57:13开始
+    2. 2022WTT支线赛·帕纳久里什泰站 资格赛 第二轮 朴康贤 3-0 马昆廷（新加坡）[2022WTT支线系列赛帕纳久里什泰站资格赛Day2三号桌全场回放（上）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743957005) 02:48:13开始
+    3. 2022WTT支线赛·帕纳久里什泰站 资格赛 第一轮 朴康贤 3-0 PARK Chan-Hyeok（韩国）[2022WTT支线系列赛帕纳久里什泰站资格赛Day1四号桌全场回放](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743738728) （开头就是） 
+    4. 2022WTT支线赛·奥洛穆茨站 1/4决赛 朴康贤 3-4 赵成敏（韩国）[2022WTT支线系列赛奥洛穆茨站正赛Day3一号桌全场回放（中）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743307947)01:05:19开始
+    5. 2022WTT支线赛·奥洛穆茨站 1/8决赛 朴康贤 4-1 CHOI Inhyeok  （韩国）[2022WTT支线系列赛奥洛穆茨站正赛Day2四号桌全场回放（下）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743241333)17:50开始
+    6. 2022WTT支线赛·奥洛穆茨站 1/16决赛 朴康贤 4-0 Leo DE NODREST（法国）[2022WTT支线系列赛奥洛穆茨站正赛Day2四号桌全场回放（中）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=743201410)开头就是
     7. 2022WTT支线赛·奥洛穆茨站 正赛第一轮 朴康贤 4-0 周哲宇（新加坡）[无视频]()
-    8. 2022WTT支线赛·奥洛穆茨站 资格赛第四轮 朴康贤 3-2 曹巍（新加坡）[视频](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=742886879)
+    8. 2022WTT支线赛·奥洛穆茨站 资格赛第四轮 朴康贤 3-2 曹巍（新加坡）[2022wtt奥洛穆茨支线赛男单资格赛第四轮:曹巍VS朴康贤](https://www.bilibili.com/video/BV1et4y1E7ex?spm_id_from=333.337.search-card.all.click&t=3.0)
 
 ### 混双资格赛
 #### 资格赛签表
