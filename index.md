@@ -5,6 +5,7 @@
 
 - [2022WTT支线赛·奥洛穆茨站（捷克）](#2022WTT支线赛·奥洛穆茨站（捷克）)
 - [2022WTT支线赛·帕纳久里什泰站（保加利亚）](#2022WTT支线赛·帕纳久里什泰站（保加利亚）)
+- [WTT常规挑战赛马斯喀特站（阿曼）](#WTT常规挑战赛马斯喀特站（阿曼）)
 <!-- - [2022WTT常规赛·马斯喀特站（阿曼）](#2022WTT常规赛·马斯喀特站（阿曼）) -->
 
 ---
@@ -189,3 +190,32 @@
   + 对手近期战绩：
     1. [2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中国台北）](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743885824&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=e2f28ddc8d7b45abb9fe42c589165985)
 
+
+[WTT常规挑战赛马斯喀特站（阿曼）](#WTT常规挑战赛马斯喀特站（阿曼）)<span id="WTT常规挑战赛马斯喀特站（阿曼）"></span>
+## WTT常规挑战赛马斯喀特站（阿曼）
+>赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
+>
+>参赛项目：男单、男双（搭档周启豪）、混双（搭档陈幸同）
+>
+>比赛日期：2022.9.5-2022.9.10
+>
+>时差：北京时间-4h
+>
+>场馆：Sultan Qaboos Sport Complex, Muscat, Oman
+
+### 男单资格赛
+#### 资格赛签表
+<center><img src="https://user-images.githubusercontent.com/111751177/188292638-7f7533d0-d459-432f-9b70-b83a0fddf9e5.png" width="70%"></center>
+
+#### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯） 
+<center><img src="https://user-images.githubusercontent.com/111751177/188292680-ba273444-4241-4a99-a115-bf377b7c90b5.png" width="70%">
+<!--   + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5） -->
+<!--   <center><img src="https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png" width="70%"></center> -->
+
+  + 比赛时间：2022.9.5 20:00（北京时间）
+  + 比赛桌次：T2
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2004-08-04 右手横板
+  + 对手近期战绩
+    1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
+    2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
