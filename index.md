@@ -148,14 +148,12 @@
 <center><img src="https://user-images.githubusercontent.com/111751177/187937813-6cf2f3c7-99f5-43d0-9f7c-450f8c5351bf.png" width="70%"></center>
 
 #### 第一轮 刘夜泊 vs 朴康贤（韩国）
-<center><img src="https://user-images.githubusercontent.com/111751177/188037973-887e5f46-1846-492d-9e72-e24d64caeb28.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 1-4 朴康贤**（-4,-10,-10,7,-7）
+  <center><img src="https://user-images.githubusercontent.com/111751177/188292511-bf280568-2a7f-4389-9ed1-6b3136ad75f2.png" width="70%"></center>
 
-<!--   + 比赛结果：**刘夜泊 3-1 严升**（8,7,-5,2） -->
-<!--   <center><img src="https://user-images.githubusercontent.com/111751177/187456037-b705aaa9-c16f-489f-8dfd-d8692e6119c9.png" width="70%"></center> -->
-  
   + 比赛时间：2022.9.2 18:05（北京时间）
   + 比赛桌次：T3
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT支线系列赛帕纳久里什泰站正赛：刘夜泊1:4朴康贤](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744304253)
   + 对手信息：1996-06-22 左手横板
   + 对手近期战绩：
     1. 2022WTT支线赛·帕纳久里什泰站 资格赛 第三轮 朴康贤 3-1 Denislav KODJABASHEV（保加利亚）[2022WTT支线系列赛帕纳久里什泰站资格赛Day3一号桌全场回放（下）](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744140621)01:57:13开始
