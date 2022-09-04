@@ -192,6 +192,7 @@
 
 
 [WTT常规挑战赛马斯喀特站（阿曼）](#WTT常规挑战赛马斯喀特站（阿曼）)<span id="WTT常规挑战赛马斯喀特站（阿曼）"></span>
+
 ## WTT常规挑战赛马斯喀特站（阿曼）
 >赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
 >
@@ -205,12 +206,12 @@
 
 ### 男单资格赛
 #### 资格赛签表
+
 <center><img src="https://user-images.githubusercontent.com/111751177/188292638-7f7533d0-d459-432f-9b70-b83a0fddf9e5.png" width="70%"></center>
 
-#### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯） 
-<center><img src="https://user-images.githubusercontent.com/111751177/188292680-ba273444-4241-4a99-a115-bf377b7c90b5.png" width="70%">
-<!--   + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5） -->
-<!--   <center><img src="https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png" width="70%"></center> -->
+#### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯）
+
+<center><img src="https://user-images.githubusercontent.com/111751177/188293783-2e540961-ccb7-47ed-8202-60e7897852c5.png" width="70%"></center>
 
   + 比赛时间：2022.9.5 20:00（北京时间）
   + 比赛桌次：T2
@@ -219,3 +220,17 @@
   + 对手近期战绩
     1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
     2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
+
+
+
+<!--   + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5） -->
+<!--   <center><img src="https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png" width="70%"></center> -->
+  + 事实
+  - 比赛时间：2022.9.5 20:00（北京时间）
+  - 比赛桌次：T2
+  - 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2004-08-04 右手横板
+  + 对手近期战绩
+    1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
+    2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
+
