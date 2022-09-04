@@ -222,15 +222,3 @@
     2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
 
 
-
-<!--   + 比赛结果：**刘夜泊 3-1 BAEK Kwangil**（9，-9，10，5） -->
-<!--   <center><img src="https://user-images.githubusercontent.com/111751177/186125051-40e1ef4c-d838-47cb-ac19-ea08b478197a.png" width="70%"></center> -->
-  + 事实
-  - 比赛时间：2022.9.5 20:00（北京时间）
-  - 比赛桌次：T2
-  - 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
-  + 对手信息：2004-08-04 右手横板
-  + 对手近期战绩
-    1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
-    2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
-
