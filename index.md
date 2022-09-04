@@ -9,7 +9,7 @@
 
 - [2022WTT支线赛·奥洛穆茨站（捷克）](#2022WTT支线赛·奥洛穆茨站（捷克）)
 - [2022WTT支线赛·帕纳久里什泰站（保加利亚）](#2022WTT支线赛·帕纳久里什泰站（保加利亚）)
-- [WTT常规挑战赛马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)
+- [WTT常规挑战赛·马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)
 
 ---
 
@@ -194,9 +194,9 @@
     1. [2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中国台北）](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743885824&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=e2f28ddc8d7b45abb9fe42c589165985)
 
 
-[WTT常规挑战赛马斯喀特站（阿曼）](#WTT常规挑战赛马斯喀特站（阿曼）)<span id="WTT常规挑战赛马斯喀特站（阿曼）"></span>
+[WTT常规挑战赛·马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)<span id="WTT常规挑战赛·马斯喀特站（阿曼）"></span>
 
-## WTT常规挑战赛马斯喀特站（阿曼）
+## WTT常规挑战赛·马斯喀特站（阿曼）
 >赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
 >
 >参赛项目：男单、男双（搭档周启豪）、混双（搭档陈幸同）
