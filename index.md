@@ -218,9 +218,9 @@
 
 #### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯）
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188293783-2e540961-ccb7-47ed-8202-60e7897852c5.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/188524302-e771b0ae-c39d-4453-aa1e-23db1715e7eb.png" width="70%"></center>
 
-  + 比赛时间：2022.9.5 20:00（北京时间）
+  + 比赛时间：2022.9.6 14:00（北京时间）
   + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：2004-08-04 右手横板
