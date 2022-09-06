@@ -214,7 +214,8 @@
 ### 男单资格赛
 #### 资格赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188292638-7f7533d0-d459-432f-9b70-b83a0fddf9e5.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/188652341-c75dc545-8f0e-4f47-8f47-b027e157f2c0.png" width="70%"></center>
+
 
 #### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯）
   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3）
@@ -222,15 +223,15 @@
 
   + 比赛时间：2022.9.6 14:00（北京时间）
   + 比赛桌次：T2
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站资格赛Day2男单回放：刘夜泊3:0阿尔沙里伊夫](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744760003)
   + 对手信息：2004-08-04 右手横板
   + 对手近期战绩
     1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
     2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
 
 #### 第二轮 刘夜泊 vs Niagol STOYANOV（意大利）
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/188569326-ea9aa7a2-5918-45d9-90c2-52ef2df4836c.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-1 Niagol STOYANOV**（19,-11,9,12）
+<center><img src="https://user-images.githubusercontent.com/111751177/188651297-8237c008-b9eb-4f65-a03b-6b428b3ac57e.png" width="70%"></center>
 
   + 比赛时间：2022.9.6 20:45（北京时间）
   + 比赛桌次：T2
@@ -242,6 +243,23 @@
       3. 2022WTT球星挑战赛·布达佩斯站 资格赛 第三轮 [Niagol STOYANOV 0-3 张禹珍（韩国）](https://youtu.be/CACy87uZQsw?t=6961)1:56:01开始
       4. 2022WTT球星挑战赛·布达佩斯站 资格赛 第三轮 [Niagol STOYANOV 3-2 哈贝松（奥地利）](https://youtu.be/VBI3QeEmoaQ?t=123)开始就是
       5. 2022WTT支线赛·韦斯切斯特站 正赛第一轮 [Niagol STOYANOV 1-4 杜达（德国）](https://youtu.be/Vl2Qz-E-CbA?t=9830)2:43:55开始
+
+
+#### 第三轮 刘夜泊 vs Anders LIND（丹麦）
+<!--   + 比赛结果：**刘夜泊 3-1 Khalid ALSHAREIF**（9,8,3） -->
+<center><img src="https://user-images.githubusercontent.com/111751177/188652097-76bdd48c-2608-43a0-b055-2cbc40520d02.png" width="70%"></center>
+
+  + 比赛时间：2022.9.7 00:20（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：1998-12-14 左手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·帕纳久里什泰站 半决赛 [Anders LIND 2-4 周启豪](https://youtu.be/Fif0sZJgwms?t=9180)2:33:00开始
+      2. 2022WTT支线赛·帕纳久里什泰站 1/4决赛 [Anders LIND 4-2 赛林威](https://youtu.be/wCo9atjANTo?t=16016)4:26:57开始
+      3. 2022WTT支线赛·帕纳久里什泰站 1/8决赛 [Anders LIND 4-0 冯耀恩（新加坡）](https://youtu.be/hW_BqMRIOKw?t=14237)3:57:17开始
+      4. 2022WTT支线赛·帕纳久里什泰站 正赛 第一轮 [Anders LIND 4-3 Leo DE NODREST（法国）](https://youtu.be/vuH4X1pYPng?t=3211)53:30开始
+      5. 2022WTT支线赛·奥洛穆茨站 资格赛 第三轮 [Niagol STOYANOV 1-3 梁俨苧](https://youtu.be/7yXyI2D_QPI?list=PLIl_mJ3zK7B8so_EBQsPEkvKh_lvHQpTf&t=21516)5:58:35开始
+      6. 2022WTT支线赛·韦斯切斯特站 正赛 第一轮 [Niagol STOYANOV 0-4 Carlo ROSSI（德国）](https://youtu.be/Z8ldz_qBInM?t=12856)
 
 
 ### 男双正赛
