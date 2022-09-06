@@ -217,8 +217,8 @@
 <center><img src="https://user-images.githubusercontent.com/111751177/188292638-7f7533d0-d459-432f-9b70-b83a0fddf9e5.png" width="70%"></center>
 
 #### 第一轮 刘夜泊 vs Khalid ALSHAREIF（沙特阿拉伯）
-
-<center><img src="https://user-images.githubusercontent.com/111751177/188524302-e771b0ae-c39d-4453-aa1e-23db1715e7eb.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3）
+<center><img src="https://user-images.githubusercontent.com/111751177/188561277-c2dab445-0c52-41cb-a7c5-b3117de3a915.png" width="70%"></center>
 
   + 比赛时间：2022.9.6 14:00（北京时间）
   + 比赛桌次：T2
