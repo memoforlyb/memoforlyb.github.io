@@ -297,7 +297,7 @@
   + 比赛时间：2022.9.7 14:00（北京时间）
   + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
-  + 对手信息：张禹珍 1995-09-10 右手横板/林仲勋 1997-01-21 左手横板
+  + 对手信息：张禹珍 1995-09-10 右手横板 / 林仲勋 1997-01-21 左手横板
   + 对手近期战绩
     1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
     2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
@@ -315,15 +315,7 @@
 <!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
 <center><img src="https://user-images.githubusercontent.com/111751177/188711185-1937e855-382e-4c5a-bfb8-ca478bfaa75c.png" width="70%"></center>
 
-
   + 比赛时间：2022.9.7 20:00（北京时间）
   + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：梁俨苧 2001-02-03 右手横板/臧小桐 2001-01-16 右手横板
-<!--   + 对手近期战绩
-    1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
-    2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
-    3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）](https://www.youtube.com/watch?v=TBisEnWNi1s)
-    4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）](https://www.youtube.com/watch?v=rG0kzw-HwAY)
-    5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）](https://www.youtube.com/watch?v=2xIKra6hJUs)
-    6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=Tn7CUaDnG-g) -->
