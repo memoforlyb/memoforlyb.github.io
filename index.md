@@ -230,10 +230,10 @@
 
 #### 第二轮 刘夜泊 vs Niagol STOYANOV（意大利）
 <!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188561277-c2dab445-0c52-41cb-a7c5-b3117de3a915.png" width="70%"></center> -->
+<center><img src="https://user-images.githubusercontent.com/111751177/188569326-ea9aa7a2-5918-45d9-90c2-52ef2df4836c.png" width="70%"></center>
 
-  + 比赛时间：2022.9.6 （北京时间）
-  + 比赛桌次：T
+  + 比赛时间：2022.9.6 20:45（北京时间）
+  + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：1987-05-31 右手横板
     + 对手近期战绩
@@ -247,7 +247,7 @@
 ### 男双正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188292638-7f7533d0-d459-432f-9b70-b83a0fddf9e5.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/188567813-f18f6d1e-c4e6-4c93-b549-1385951603ea.png" width="70%"></center>
 
 #### 第一轮 刘夜泊/周启豪 vs 张禹珍/林仲勋（韩国）
 <!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
@@ -256,8 +256,12 @@
   + 比赛时间：2022.9.7 14:00（北京时间）
   + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
-<!--   + 对手信息：2004-08-04 右手横板
+  + 对手信息：张禹珍 1995-09-10 右手横板/林仲勋 1997-01-21 左手横板
   + 对手近期战绩
-    1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
-    2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY) -->
+    1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）]()待更新
+    2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）]()待更新
+    3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）]()待更新
+    4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）]()待更新
+    5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）]()待更新
+    6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）]()待更新
 
