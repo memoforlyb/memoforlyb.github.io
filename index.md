@@ -228,4 +228,18 @@
     1. 2022WTT支线赛·奥洛穆茨站[Khalid ALSHAREIF 0-3 马昆廷（新加坡）](https://youtu.be/zl5bGkY6518?t=31848)8:50:48开始
     2. 2022WTT青少年常规赛·突尼斯站[Khalid ALSHAREIF 0-3 Alexis LEBRUN（法国）](https://youtu.be/AmXSREHNaWY)
 
+#### 第二轮 刘夜泊 vs Niagol STOYANOV（意大利）
+<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188561277-c2dab445-0c52-41cb-a7c5-b3117de3a915.png" width="70%"></center> -->
+
+  + 比赛时间：2022.9.6 （北京时间）
+  + 比赛桌次：T
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：1987-05-31 右手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·帕纳久里什泰站 正赛 第一轮 [Niagol STOYANOV 1-4 Andrei ISTRATE](https://youtu.be/VS9Ym3GYq8E?t=3613)1:00:14开始
+      2. 2022WTT支线赛·奥洛穆茨站资格赛 正赛 第一轮 [Niagol STOYANOV 1-4 David SERDAROGLU（奥地利）](无视频)无视频
+      3. 2022WTT球星挑战赛·布达佩斯站 资格赛 第三轮 [Niagol STOYANOV 0-3 张禹珍（韩国）](https://youtu.be/CACy87uZQsw?t=6961)1:56:01开始
+      4. 2022WTT球星挑战赛·布达佩斯站 资格赛 第三轮 [Niagol STOYANOV 3-2 哈贝松（奥地利）](https://youtu.be/VBI3QeEmoaQ?t=123)开始就是
+      5. 2022WTT支线赛·韦斯切斯特站 正赛第一轮 [Niagol STOYANOV 1-4 杜达（德国）](https://youtu.be/Vl2Qz-E-CbA?t=9830)2:43:55开始
 
