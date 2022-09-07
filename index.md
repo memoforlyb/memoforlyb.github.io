@@ -265,17 +265,17 @@
 ### 男单正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188704929-43ff3bfc-25a5-4173-9664-aeba9b3e06c2.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/188901792-554bc949-1b87-4e09-895d-d5c23e11f0ea.png" width="70%"></center>
 
 
 #### 1/16决赛 刘夜泊 vs Robert GARDOS 罗伯特·加多斯（奥地利）
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-2 Robert GARDOS**（-9,7,-8,7,10）
+<center><img src="https://user-images.githubusercontent.com/111751177/188901556-fdb545d4-ac85-4e66-8655-f9f84ab3b6af.png" width="70%"></center>
 
 
   + 比赛时间：2022.9.7 18:00（北京时间）
   + 比赛桌次：T2
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day1男单1/16决赛回放：刘夜泊3:2加多斯](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744940180)
   + 对手信息：1979-01-16 右手横板
     + 对手近期战绩
       1. 2022WTT支线赛·奥洛穆茨站 半决赛 [Robert GARDOS 3-4 赵成敏（韩国）](https://youtu.be/b4l0SP0Uk-g)
@@ -285,37 +285,67 @@
       5. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [Robert GARDOS 2-3 林仲勋](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000251349) **【全场回放】一号桌（下）** 开场即是
       6. 2022大满贯·新加坡站 1/16决赛 [Robert GARDOS 1-3 梁靖崑](https://www.youtube.com/watch?v=fvSYBCKHsxw)
 
+#### 1/8决赛 刘夜泊 vs LEE Sangsu 李尚洙（韩国）
+<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center> -->
+
+
+  + 比赛时间：2022.9.8 18:00（北京时间）
+  + 比赛桌次：T
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：1990-08-31 右手横板
+    + 对手近期战绩
+      1. WTT常规挑战赛·马斯喀特站 1/16决赛 [李尚洙 3-0 Harmeet DESAI（印度）](https://youtu.be/thiZ4lZKzHQ?t=6155)
+      2. 2022WTT冠军赛·布达佩斯站 1/16决赛 李尚洙 0-3 梁靖崑 [集锦](https://www.youtube.com/watch?v=KstKxIv3p5o) / [完整版](https://www.youtube.com/watch?v=vzYyeb517ww)
+      3. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [李尚洙 1-3 向鹏](https://www.youtube.com/watch?v=RMNRgZUc20M)
+      4. 2021WTT世界杯总决赛·新加坡站 [李尚洙 1-3 郑荣植（韩国）](https://youtu.be/-Lpmf80ip_A)
+
 ### 男双正赛
 #### 正赛签表
 
 <center><img src="https://user-images.githubusercontent.com/111751177/188567813-f18f6d1e-c4e6-4c93-b549-1385951603ea.png" width="70%"></center>
 
 #### 第一轮 刘夜泊/周启豪 vs 张禹珍/林仲勋（韩国）
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/188567324-49746a5a-0b66-4e1a-b9cd-1b74321129aa.png" width="70%"></center>
+  + 比赛结果：**刘夜泊/周启豪 2-3 张禹珍/林仲勋**（-9,8,-8,8,-7）
+<center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center>
 
   + 比赛时间：2022.9.7 14:00（北京时间）
   + 比赛桌次：T2
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[022WTT常规挑战赛马斯喀特站正赛Day1男双1/8决赛回放：刘夜泊/周启豪2:3张禹珍/林钟勋](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744909194)
   + 对手信息：张禹珍 1995-09-10 右手横板 / 林仲勋 1997-01-21 左手横板
-  + 对手近期战绩
-    1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
-    2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
-    3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）](https://www.youtube.com/watch?v=TBisEnWNi1s)
-    4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）](https://www.youtube.com/watch?v=rG0kzw-HwAY)
-    5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）](https://www.youtube.com/watch?v=2xIKra6hJUs)
-    6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=Tn7CUaDnG-g)
+    + 对手近期战绩
+      1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
+      2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
+      3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）](https://www.youtube.com/watch?v=TBisEnWNi1s)
+      4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）](https://www.youtube.com/watch?v=rG0kzw-HwAY)
+      5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）](https://www.youtube.com/watch?v=2xIKra6hJUs)
+      6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=Tn7CUaDnG-g)
 
 ### 混双正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188710920-728fba17-ebcd-4b57-aff7-640cba495636.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/188901913-0f272603-ef26-4468-a80b-a9f5b88fc699.png" width="70%"></center>
 
-#### 第一轮 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/188711185-1937e855-382e-4c5a-bfb8-ca478bfaa75c.png" width="70%"></center>
+#### 1/8决赛 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
+  + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（9,8,3）
+<center><img src="https://user-images.githubusercontent.com/111751177/188901180-492df222-56d6-42b1-9c69-b32ec2279b86.png" width="70%"></center>
 
   + 比赛时间：2022.9.7 20:00（北京时间）
   + 比赛桌次：T1
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day1混双1/8决赛回放：刘夜泊/陈幸同3:1梁俨苧/臧小桐](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744947134)
   + 对手信息：梁俨苧 2001-02-03 右手横板/臧小桐 2001-01-16 右手横板
+
+
+#### 1/4决赛 刘夜泊/陈幸同 vs Manav Vikash THAKKAR/Archana Girish KAMATH（印度）
+<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center> -->
+
+
+  + 比赛时间：2022.9.8 18:00（北京时间）
+  + 比赛桌次：T
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：Manav Vikash THAKKAR 2000-04-14 右手横板 / Archana Girish KAMATH 2001-01-16 右手横板
+    + 对手近期战绩
+      1. WTT支线赛·韦斯切斯特站 半决赛 [Manav Vikash THAKKAR/Archana Girish KAMATH 2-3 庄智渊/陈思羽（中国台北）](https://youtu.be/thiZ4lZKzHQ?t=6155)
+      2. 2022常规赛·马斯喀特站（年初） 1/8决赛 [Manav V. T./Archana G. K. vs Abdullah Y./Ozge Y.](https://youtu.be/JkVBiyjzzbc)
+      3. 2021常规赛·布达佩斯站 1/8决赛 [Sathiyan G./Manika Batra vs Manav V./Thakkar Archana Girish K.](https://youtu.be/kDSqnJTR7Rw)
