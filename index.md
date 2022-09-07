@@ -282,7 +282,7 @@
       2. 2022WTT支线赛·奥洛穆茨站 1/4决赛 [Robert GARDOS 4-2 Steffen MENGEL（德国）](https://www.youtube.com/watch?v=mL7S6rJpR_s)
       3. 2022WTT支线赛·奥洛穆茨站 1/8决赛 [Robert GARDOS 4-3 Lubomir PISTEJ（斯洛伐克）](https://youtu.be/odtQlaWv9Qg?t=33302)
       4. 2022WTT冠军赛·布达佩斯站 1/16决赛 Robert GARDOS 0-3 马龙 [集锦](https://www.youtube.com/watch?v=dA5NaqCQ78Q) / [全场回放](https://youtu.be/DqEZq3pJ7gk)
-      5. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [Robert GARDOS 2-3 林仲勋](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000251349)开场即是
+      5. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [Robert GARDOS 2-3 林仲勋](https://www.miguvideo.com/mgs/website/prd/sportLive.html?mgdbId=120000251349) **【全场回放】一号桌（下）** 开场即是
       6. 2022大满贯·新加坡站 1/16决赛 [Robert GARDOS 1-3 梁靖崑](https://www.youtube.com/watch?v=fvSYBCKHsxw)
 
 ### 男双正赛
