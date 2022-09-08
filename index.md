@@ -324,7 +324,7 @@
 ### 混双正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/188901913-0f272603-ef26-4468-a80b-a9f5b88fc699.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/189105375-42d80760-ddd0-4b18-b92c-7c1acd7ffc6f.png" width="70%"></center>
 
 #### 1/8决赛 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
   + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（9,8,3）
@@ -337,8 +337,8 @@
 
 
 #### 1/4决赛 刘夜泊/陈幸同 vs Manav Vikash THAKKAR/Archana Girish KAMATH（印度）
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊/陈幸同 3-0 Manav Vikash THAKKAR/Archana Girish KAMATH**（3,8,5）
+<center><img src="https://user-images.githubusercontent.com/111751177/189104716-8d17f7c5-840f-417e-bdbc-ac4e352144e2.png" width="70%"></center>
 
 
   + 比赛时间：2022.9.8 18:30（北京时间）
@@ -349,3 +349,14 @@
       1. WTT支线赛·韦斯切斯特站 半决赛 [Manav Vikash THAKKAR/Archana Girish KAMATH 2-3 庄智渊/陈思羽（中国台北）](https://youtu.be/thiZ4lZKzHQ?t=6155)
       2. 2022常规赛·马斯喀特站（年初） 1/8决赛 [Manav V. T./Archana G. K. vs Abdullah Y./Ozge Y.](https://youtu.be/JkVBiyjzzbc)
       3. 2021常规赛·布达佩斯站 1/8决赛 [Sathiyan G./Manika Batra vs Manav V./Thakkar Archana Girish K.](https://youtu.be/kDSqnJTR7Rw)
+
+
+#### 半决赛 刘夜泊/陈幸同 vs 周启豪/钱天一
+<!--   + 比赛结果：**刘夜泊/陈幸同 3-0 Manav Vikash THAKKAR/Archana Girish KAMATH**（3,8,5） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189104716-8d17f7c5-840f-417e-bdbc-ac4e352144e2.png" width="70%"></center> -->
+
+
+  + 比赛时间：2022.9.9 00:30（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：周启豪 1997-01-12 右手横板 / 钱天一 2000-01-23 左手横板
