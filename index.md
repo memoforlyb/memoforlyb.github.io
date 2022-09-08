@@ -287,15 +287,15 @@
 
 #### 1/8决赛 刘夜泊 vs LEE Sangsu 李尚洙（韩国）
 <!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center> -->
+<center><img src="https://user-images.githubusercontent.com/111751177/189017145-bc606e37-27b3-4930-b543-cb9fa5b98bfb.png" width="70%"></center>
 
 
-  + 比赛时间：2022.9.8 18:00（北京时间）
-  + 比赛桌次：T
+  + 比赛时间：2022.9.8 22:30（北京时间）
+  + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：1990-08-31 右手横板
     + 对手近期战绩
-      1. WTT常规挑战赛·马斯喀特站 1/16决赛 [李尚洙 3-0 Harmeet DESAI（印度）](https://youtu.be/thiZ4lZKzHQ?t=6155)
+      1. WTT常规挑战赛·马斯喀特站 1/16决赛 [李尚洙 3-0 Harmeet DESAI（印度）](https://www.youtube.com/watch?v=oGT5JF7zHjM)
       2. 2022WTT冠军赛·布达佩斯站 1/16决赛 李尚洙 0-3 梁靖崑 [集锦](https://www.youtube.com/watch?v=KstKxIv3p5o) / [完整版](https://www.youtube.com/watch?v=vzYyeb517ww)
       3. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [李尚洙 1-3 向鹏](https://www.youtube.com/watch?v=RMNRgZUc20M)
       4. 2021WTT世界杯总决赛·新加坡站 [李尚洙 1-3 郑荣植（韩国）](https://youtu.be/-Lpmf80ip_A)
@@ -341,8 +341,8 @@
 <!-- <center><img src="https://user-images.githubusercontent.com/111751177/188705233-17c5ad76-e6af-44d3-b794-91abc9410463.png" width="70%"></center> -->
 
 
-  + 比赛时间：2022.9.8 18:00（北京时间）
-  + 比赛桌次：T
+  + 比赛时间：2022.9.8 18:30（北京时间）
+  + 比赛桌次：T2
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：Manav Vikash THAKKAR 2000-04-14 右手横板 / Archana Girish KAMATH 2001-01-16 右手横板
     + 对手近期战绩
