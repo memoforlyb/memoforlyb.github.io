@@ -286,19 +286,36 @@
       6. 2022大满贯·新加坡站 1/16决赛 [Robert GARDOS 1-3 梁靖崑](https://www.youtube.com/watch?v=fvSYBCKHsxw)
 
 #### 1/8决赛 刘夜泊 vs LEE Sangsu 李尚洙（韩国）
-<!--   + 比赛结果：**刘夜泊 3-0 Khalid ALSHAREIF**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/189017145-bc606e37-27b3-4930-b543-cb9fa5b98bfb.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-0 李尚洙**（5,3,8）
+<center><img src="https://user-images.githubusercontent.com/111751177/189252033-6a454662-e4a1-4f47-a4df-fa95202a2f2d.png" width="70%"></center>
 
 
   + 比赛时间：2022.9.8 22:30（北京时间）
   + 比赛桌次：T1
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day2男单1/8决赛回放：刘夜泊3:0李尚洙](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745099841)
   + 对手信息：1990-08-31 右手横板
     + 对手近期战绩
       1. WTT常规挑战赛·马斯喀特站 1/16决赛 [李尚洙 3-0 Harmeet DESAI（印度）](https://www.youtube.com/watch?v=oGT5JF7zHjM)
       2. 2022WTT冠军赛·布达佩斯站 1/16决赛 李尚洙 0-3 梁靖崑 [集锦](https://www.youtube.com/watch?v=KstKxIv3p5o) / [完整版](https://www.youtube.com/watch?v=vzYyeb517ww)
       3. 2022WTT球星挑战赛·布达佩斯站 正赛第一轮 [李尚洙 1-3 向鹏](https://www.youtube.com/watch?v=RMNRgZUc20M)
       4. 2021WTT世界杯总决赛·新加坡站 [李尚洙 1-3 郑荣植（韩国）](https://youtu.be/-Lpmf80ip_A)
+
+#### 1/8决赛 刘夜泊 vs Kanak JHA（美国）
+<!--   + 比赛结果：**刘夜泊 3-0 李尚洙**（5,3,8） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189252033-6a454662-e4a1-4f47-a4df-fa95202a2f2d.png" width="70%"></center> -->
+
+
+  + 比赛时间：2022.9.9 14:00（北京时间）
+  + 比赛桌次：T2
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2000-06-19 右手横板
+    + 对手近期战绩
+      1. WTT常规挑战赛·马斯喀特站 1/8决赛 [Kanak JHA 3-1 Ricardo WALTHER（德国）](https://www.youtube.com/watch?v=YJX8iXAz1Lo)
+      2. 2022WTT冠军赛·布达佩斯站 1/16决赛 [Kanak JHA 3-1 Ruwen FILUS（德国）](https://www.youtube.com/watch?v=cU8BGoIE7U8)
+      3. 2022WTT球星挑战赛·布达佩斯站 1/16决赛 Kanak JHA 2-3 波尔（德国）[集锦](https://www.youtube.com/watch?v=qTzTfZH0FxA) / [完整版](https://www.youtube.com/watch?v=NnCUES8Gw8c)
+      4. 2022WTT球星挑战赛·布达佩斯站 1/8决赛 [Kanak JHA 0-3 王楚钦](https://www.youtube.com/watch?v=PKx8uD9FNKA)
+      5. 2022WTT球星挑战赛·多哈站 1/8决赛 [Kanak JHA 0-3 薛飞](https://www.youtube.com/watch?v=D2wOO0JSmBM)
+      6. 2021世锦赛 1/4决赛 [Kanak JHA 2-4 波尔（德国）](https://www.youtube.com/watch?v=W9RjGbc5xnI)
 
 ### 男双正赛
 #### 正赛签表
@@ -324,7 +341,7 @@
 ### 混双正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/189105375-42d80760-ddd0-4b18-b92c-7c1acd7ffc6f.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/189251961-05ea3e80-4e9e-47ec-815d-35f1dbf1f94b.png" width="70%"></center>
 
 #### 1/8决赛 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
   + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（9,8,3）
@@ -352,11 +369,22 @@
 
 
 #### 半决赛 刘夜泊/陈幸同 vs 周启豪/钱天一
-<!--   + 比赛结果：**刘夜泊/陈幸同 3-0 Manav Vikash THAKKAR/Archana Girish KAMATH**（3,8,5） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189104716-8d17f7c5-840f-417e-bdbc-ac4e352144e2.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊/陈幸同 3-0 周启豪/钱天一**（11,9,9）
+<center><img src="https://user-images.githubusercontent.com/111751177/189251692-26c6d404-ba15-4ec4-9151-bdd0757afdc7.png" width="70%"></center>
 
 
-  + 比赛时间：2022.9.9 00:30（北京时间）
+  + 比赛时间：2022.9.9 00:00（北京时间）
+  + 比赛桌次：T1
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day2混双半决赛回放：刘夜泊/陈幸同3:0周启豪/钱天一](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745099993)
+  + 对手信息：周启豪 1997-01-12 右手横板 / 钱天一 2000-01-23 左手横板
+
+
+#### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
+<!--   + 比赛结果：**刘夜泊/陈幸同 3-0 周启豪/钱天一**（11,9,9） -->
+<center><img src="https://user-images.githubusercontent.com/111751177/189251692-26c6d404-ba15-4ec4-9151-bdd0757afdc7.png" width="70%"></center>
+
+
+  + 比赛时间：2022.9.10 00:40（北京时间）
   + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
-  + 对手信息：周启豪 1997-01-12 右手横板 / 钱天一 2000-01-23 左手横板
+  + 对手信息：徐海东 2000-06-12 右手直板 / 钱天一 2002-01-03 右手直板
