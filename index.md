@@ -381,7 +381,7 @@
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
 <!--   + 比赛结果：**刘夜泊/陈幸同 3-0 周启豪/钱天一**（11,9,9） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/189251692-26c6d404-ba15-4ec4-9151-bdd0757afdc7.png" width="70%"></center>
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189251692-26c6d404-ba15-4ec4-9151-bdd0757afdc7.png" width="70%"></center> -->
 
 
   + 比赛时间：2022.9.10 00:40（北京时间）
