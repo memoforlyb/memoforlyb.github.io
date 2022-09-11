@@ -14,6 +14,7 @@
 - [2022WTT支线赛·奥洛穆茨站（捷克）](#2022WTT支线赛·奥洛穆茨站（捷克）)
 - [2022WTT支线赛·帕纳久里什泰站（保加利亚）](#2022WTT支线赛·帕纳久里什泰站（保加利亚）)
 - [WTT常规挑战赛·马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)
+- [WTT常规挑战赛·阿拉木图站（哈萨克斯坦）](#WTT常规挑战赛·阿拉木图站（哈萨克斯坦）)
 
 ---
 
@@ -381,10 +382,61 @@
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
   + 比赛结果：**刘夜泊/陈幸同 3-1 徐海东/吴洋晨**（11,9,9） 🥇
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center> -->
+<center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center>
 
 
-  + 比赛时间：2022.9.10 00:40（北京时间）
   + 比赛桌次：T1
   + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day3混双决赛回放：刘夜泊/陈幸同3:1徐海东/吴洋晨](https://www.migu.cn/video/detail/1301200001121060200.html)
   + 对手信息：徐海东 2000-06-12 右手直板 / 吴洋晨 2002-01-03 右手直板
+
+---
+
+[WTT常规挑战赛·阿拉木图站（哈萨克斯坦）](#WTT常规挑战赛·阿拉木图站（哈萨克斯坦）)<span id="WTT常规挑战赛·阿拉木图站（哈萨克斯坦）"></span>
+
+## WTT常规挑战赛·阿拉木图站（哈萨克斯坦）
+>赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
+>
+>参赛项目：男单、男双（搭档严升）
+>
+>比赛日期：2022.9.13-2022.9.18
+>
+>时差：北京时间-2h
+>
+>场馆：Table Tennis Centre ADD, Almaty, Kazakhstan
+
+### 男单资格赛
+#### 资格赛签表
+
+<center><img src="https://user-images.githubusercontent.com/111751177/189530803-4a51cb64-2978-46b4-8671-eab38facede5.png" width="70%"></center>
+
+
+#### 第一轮 刘夜泊 vs Irisbek ARTUKMETOV（哈萨克斯坦）  🇰🇿
+<!--   + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（9,8,3） -->
+<center><img src="https://user-images.githubusercontent.com/111751177/189530995-383918df-e489-46f7-b7a6-027c5e03f44f.png" width="70%"></center>
+
+  + 比赛时间：2022.9.13 17:05（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2000-08-18
+
+
+### 男双
+#### 资格赛签表
+
+<center><img src="https://user-images.githubusercontent.com/111751177/189531152-5928c454-042b-48de-8ecc-a76dafb8b94e.png" width="70%"></center>
+
+#### 第一轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
+<!--   + 比赛结果：**刘夜泊/周启豪 2-3 徐海东/梁俨苧**（-9,8,-8,8,-7） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center> -->
+
+<!--   + 比赛时间：2022.9.7 14:00（北京时间）
+  + 比赛桌次：T2
+  + 视频回放：[022WTT常规挑战赛马斯喀特站正赛Day1男双1/8决赛回放：刘夜泊/周启豪2:3张禹珍/林钟勋](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744909194)
+  + 对手信息：张禹珍 1995-09-10 右手横板 / 林仲勋 1997-01-21 左手横板
+    + 对手近期战绩
+      1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
+      2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
+      3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）](https://www.youtube.com/watch?v=TBisEnWNi1s)
+      4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）](https://www.youtube.com/watch?v=rG0kzw-HwAY)
+      5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）](https://www.youtube.com/watch?v=2xIKra6hJUs)
+      6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=Tn7CUaDnG-g) -->
