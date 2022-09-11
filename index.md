@@ -301,13 +301,13 @@
       4. 2021WTT世界杯总决赛·新加坡站 [李尚洙 1-3 郑荣植（韩国）](https://youtu.be/-Lpmf80ip_A)
 
 #### 1/8决赛 刘夜泊 vs Kanak JHA（美国）
-<!--   + 比赛结果：**刘夜泊 3-0 李尚洙**（5,3,8） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189252033-6a454662-e4a1-4f47-a4df-fa95202a2f2d.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊 2-3 Kanak JHA**（5,3,8）
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189530478-11b95c0e-206d-4453-acad-64003896518f.png" width="70%"></center> -->
 
 
   + 比赛时间：2022.9.9 14:00（北京时间）
   + 比赛桌次：T2
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day3男单1/4决赛回放：刘夜泊2:3卡纳克](https://www.migu.cn/video/detail/1301200001121033812.html)
   + 对手信息：2000-06-19 右手横板
     + 对手近期战绩
       1. WTT常规挑战赛·马斯喀特站 1/8决赛 [Kanak JHA 3-1 Ricardo WALTHER（德国）](https://www.youtube.com/watch?v=YJX8iXAz1Lo)
@@ -341,7 +341,7 @@
 ### 混双正赛
 #### 正赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/189251961-05ea3e80-4e9e-47ec-815d-35f1dbf1f94b.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/189530624-d0b328c4-6dc2-4664-accd-a2a77317df6f.png" width="70%"></center>
 
 #### 1/8决赛 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
   + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（9,8,3）
@@ -380,11 +380,11 @@
 
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
-<!--   + 比赛结果：**刘夜泊/陈幸同 3-0 周启豪/钱天一**（11,9,9） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189251692-26c6d404-ba15-4ec4-9151-bdd0757afdc7.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊/陈幸同 3-1 徐海东/吴洋晨**（11,9,9） 🥇
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center> -->
 
 
   + 比赛时间：2022.9.10 00:40（北京时间）
   + 比赛桌次：T1
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day3混双决赛回放：刘夜泊/陈幸同3:1徐海东/吴洋晨](https://www.migu.cn/video/detail/1301200001121060200.html)
   + 对手信息：徐海东 2000-06-12 右手直板 / 吴洋晨 2002-01-03 右手直板
