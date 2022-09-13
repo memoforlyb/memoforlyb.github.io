@@ -449,8 +449,8 @@
 
 
 #### 第二轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
-<!--   + 比赛结果：**刘夜泊/周启豪 2-3 徐海东/梁俨苧**（-9,8,-8,8,-7） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center>
+<!--   + 比赛结果：**刘夜泊/严升  徐海东/梁俨苧**（） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center> -->
 
   + 比赛时间：2022.9.14 15:20（北京时间）
   + 比赛桌次：T4
