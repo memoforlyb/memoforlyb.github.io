@@ -1,6 +1,9 @@
 # 赛事纪录簿
 链接 [https://memoforlyb.github.io/](https://memoforlyb.github.io/)
 
+<center><img src="https://user-images.githubusercontent.com/111751177/189788120-c24da4bc-c679-4985-814e-4cdf8437ce3b.jpg" width="30%"></center>
+
+
 # 食用指南：
 >【赛事概况】【比赛时间桌次】【视频回放】【对手基本信息】【对手近期战况（含视频直达连接）】
 
