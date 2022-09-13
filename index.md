@@ -412,13 +412,31 @@
 
 
 #### 第一轮 刘夜泊 vs Irisbek ARTUKMETOV（哈萨克斯坦）  🇰🇿
-<!--   + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（9,8,3） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/189530995-383918df-e489-46f7-b7a6-027c5e03f44f.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（6,5,4）
+<center><img src="https://user-images.githubusercontent.com/111751177/189910527-5a15824d-e40a-46f4-b303-d70fa0051f2c.png" width="70%"></center>
 
   + 比赛时间：2022.9.13 17:05（北京时间）
   + 比赛桌次：T1
+  + 视频回放：[2022WTT常规挑战赛阿拉木图站资格赛Day1男单回放：刘夜泊3:0阿图克梅托夫](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745602046)
+  + 对手信息：2000-08-18 左手横板
+
+
+#### 第二轮 刘夜泊 vs Lubomir PISTEJ（斯洛伐克） 🇸🇰
+<!--   + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（6,5,4） -->
+<center><img src="https://user-images.githubusercontent.com/111751177/189913722-b2d5d1d7-aa3d-4d09-969c-0b861b6447a7.png" width="70%"></center>
+  + 比赛时间：2022.9.14 12:40（北京时间）
+  + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
-  + 对手信息：2000-08-18
+  + 对手信息：1984-03-1406 右手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·奥洛穆茨站 1/8决赛 [Lubomir PISTEJ 3-4 Robert GARDOS](https://youtu.be/odtQlaWv9Qg?t=33320)
+      2. 2022WTT支线赛·奥洛穆茨站 1/16决赛 [Lubomir PISTEJ 4-3 Deni KOZUL（斯洛文尼亚）](https://youtu.be/J9I66MrIGzk?t=2835)
+      3. 2022WTT支线赛·奥洛穆茨站 正赛第一轮 [Lubomir PISTEJ 4-1 陈建安（中国台北）](无视频)无视频
+      4. 2022WTT常规站·突尼斯站 资格赛 第二轮  [Lubomir PISTEJ 0-3 薛飞](https://www.youtube.com/watch?v=GriswrKFtV4&t=52s)
+      5. 2022WTT支线站·布达佩斯站 正赛第一轮  [Lubomir PISTEJ 0-4 孟凡博（德国）](无视频)无视频
+      6. 2022WTT球星赛·布达佩斯站 正赛第一轮  [Lubomir PISTEJ 0-3 阿昌塔（印度）](https://youtu.be/A9_EtZhVHuU?t=10568)
+      7. 2022WTT球星赛·多哈站 资格赛第一轮  [Lubomir PISTEJ 1-3 陈垣宇](https://www.youtube.com/watch?v=PuFDOOtUOac)
+      8. 2022WTT大满贯·新加坡站 资格赛第三轮 [Lubomir PISTEJ 0-3 向鹏](https://www.youtube.com/watch?v=N95W6e_SPv8)
 
 
 ### 男双
@@ -426,18 +444,17 @@
 
 <center><img src="https://user-images.githubusercontent.com/111751177/189531152-5928c454-042b-48de-8ecc-a76dafb8b94e.png" width="70%"></center>
 
-#### 第一轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
-<!--   + 比赛结果：**刘夜泊/周启豪 2-3 徐海东/梁俨苧**（-9,8,-8,8,-7） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center> -->
 
-<!--   + 比赛时间：2022.9.7 14:00（北京时间）
-  + 比赛桌次：T2
-  + 视频回放：[022WTT常规挑战赛马斯喀特站正赛Day1男双1/8决赛回放：刘夜泊/周启豪2:3张禹珍/林钟勋](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=744909194)
-  + 对手信息：张禹珍 1995-09-10 右手横板 / 林仲勋 1997-01-21 左手横板
+#### 第一轮 轮空
+
+
+#### 第二轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
+<!--   + 比赛结果：**刘夜泊/周启豪 2-3 徐海东/梁俨苧**（-9,8,-8,8,-7） -->
+<center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center>
+
+  + 比赛时间：2022.9.14 15:20（北京时间）
+  + 比赛桌次：T4
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：徐海东 2000-06-12 右手直板 / 梁俨苧 2001-02-03 右手横板
     + 对手近期战绩
-      1. 2022大满贯·新加坡站 1/4决赛[张禹珍/林仲勋 0-3 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=ZMqRVzJOzH8)
-      2. 2022大满贯·新加坡站 1/8决赛[张禹珍/林仲勋 3-0 加纳纳塞卡然/阿昌塔（印度）](https://youtu.be/tAjDMF4Vj6w?list=PLIl_mJ3zK7B_4q-D9rGxYUC8D9AynLa-f)
-      3. 2021世锦赛 决赛 [张禹珍/林仲勋 1-3 卡尔松/法尔克（瑞典）](https://www.youtube.com/watch?v=TBisEnWNi1s)
-      4. 2021世锦赛 半决赛 [张禹珍/林仲勋 3-1 户上隼輔/宇田幸矢（日本）](https://www.youtube.com/watch?v=rG0kzw-HwAY)
-      5. 2021世锦赛 1/4决赛 [张禹珍/林仲勋 3-1 何钧杰/黄镇廷（中国香港）](https://www.youtube.com/watch?v=2xIKra6hJUs)
-      6. 2021世锦赛 1/8决赛 [张禹珍/林仲勋 3-0 陈建安/庄智渊（中国台北）](https://www.youtube.com/watch?v=Tn7CUaDnG-g) -->
+      1. WTT常规挑战赛·马斯喀特站 半决赛 [徐海东/梁俨苧 1-3 李尚洙/安宰贤（韩国）](https://www.youtube.com/watch?v=IG_uMriqFz8)
