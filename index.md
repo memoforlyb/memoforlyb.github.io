@@ -408,7 +408,7 @@
 ### 男单资格赛
 #### 资格赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/189530803-4a51cb64-2978-46b4-8671-eab38facede5.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/189916738-ed1fc257-1938-4b28-b72d-be64e02ffd78.png" width="70%"></center>
 
 
 #### 第一轮 刘夜泊 vs Irisbek ARTUKMETOV（哈萨克斯坦）  🇰🇿
