@@ -1,7 +1,7 @@
 # 赛事纪录簿
 链接 [https://memoforlyb.github.io/](https://memoforlyb.github.io/)
 
-<center><img src="https://user-images.githubusercontent.com/111751177/189788120-c24da4bc-c679-4985-814e-4cdf8437ce3b.jpg" width="30%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/189788120-c24da4bc-c679-4985-814e-4cdf8437ce3b.jpg" width="60%"></center>
 
 
 # 食用指南：
