@@ -447,10 +447,10 @@
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
   + 对手信息：2000-05-28 左手横板
     + 对手近期战绩
-      1. 2022WTT支线赛·布达佩斯站 正赛第一轮 [Cristian PLETEA 0-4 杜达]()
+      1. 2022WTT支线赛·布达佩斯站 正赛第一轮 [Cristian PLETEA 0-4 杜达]()无视频
       2. 2022WTT支线赛·韦斯切斯特站 1/8决赛 [Cristian PLETEA 0-4 田中佑汰](https://www.youtube.com/watch?v=v86naxSlBTU)
-      3. 2022WTT支线赛·费利蒙站1/16决赛 [Cristian PLETEA 1-4 筱冢大登](https://youtu.be/HVI891WxrLc?list=PLIl_mJ3zK7B8uKZXPkki3uQ4plgHkEZ_b&t=23621）
-      4. 2022WTT球星赛·多哈站 资格赛第二轮 [Cristian PLETEA 0-3 刘丁硕](https://www.youtube.com/watch?v=xSlhrrW0t9E)
+      3. 2022WTT支线赛·费利蒙站1/16决赛 [Cristian PLETEA 1-4 筱冢大登](https://youtu.be/HVI891WxrLc?list=PLIl_mJ3zK7B8uKZXPkki3uQ4plgHkEZ_b&t=23621)
+      5. 2022WTT球星赛·多哈站 资格赛第二轮 [Cristian PLETEA 0-3 刘丁硕](https://www.youtube.com/watch?v=xSlhrrW0t9E)
 
 
 ### 男双
