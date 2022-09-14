@@ -408,7 +408,7 @@
 ### 男单资格赛
 #### 资格赛签表
 
-<center><img src="https://user-images.githubusercontent.com/111751177/189916738-ed1fc257-1938-4b28-b72d-be64e02ffd78.png" width="70%"></center>
+<center><img src="https://user-images.githubusercontent.com/111751177/190075497-309380cb-f1e6-4306-b3b0-fdc162a9afa1.png" width="70%"></center>
 
 
 #### 第一轮 刘夜泊 vs Irisbek ARTUKMETOV（哈萨克斯坦）  🇰🇿
@@ -422,8 +422,8 @@
 
 
 #### 第二轮 刘夜泊 vs Lubomir PISTEJ（斯洛伐克） 🇸🇰
-<!--   + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（6,5,4） -->
-<center><img src="https://user-images.githubusercontent.com/111751177/189913722-b2d5d1d7-aa3d-4d09-969c-0b861b6447a7.png" width="70%"></center>
+  + 比赛结果：**刘夜泊 3-0 Lubomir PISTEJ**（8,5,9）
+<center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center>
   + 比赛时间：2022.9.14 12:40（北京时间）
   + 比赛桌次：T1
   + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
@@ -437,6 +437,20 @@
       6. 2022WTT球星赛·布达佩斯站 正赛第一轮  [Lubomir PISTEJ 0-3 阿昌塔（印度）](https://youtu.be/A9_EtZhVHuU?t=10568)
       7. 2022WTT球星赛·多哈站 资格赛第一轮  [Lubomir PISTEJ 1-3 陈垣宇](https://www.youtube.com/watch?v=PuFDOOtUOac)
       8. 2022WTT大满贯·新加坡站 资格赛第三轮 [Lubomir PISTEJ 0-3 向鹏](https://www.youtube.com/watch?v=N95W6e_SPv8)
+
+
+#### 第三轮 刘夜泊 vs Cristian PLETEA（罗马尼亚） 🇷🇴
+<!--   + 比赛结果：**刘夜泊 3-0 Lubomir PISTEJ**（8,5,9） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center> -->
+  + 比赛时间：2022.9.14 19:20（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2000-05-28 左手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·布达佩斯站 正赛第一轮 [Cristian PLETEA 0-4 杜达]()
+      2. 2022WTT支线赛·韦斯切斯特站 1/8决赛 [Cristian PLETEA 0-4 田中佑汰](https://www.youtube.com/watch?v=v86naxSlBTU)
+      3. 2022WTT支线赛·费利蒙站1/16决赛 [Cristian PLETEA 1-4 筱冢大登](https://youtu.be/HVI891WxrLc?list=PLIl_mJ3zK7B8uKZXPkki3uQ4plgHkEZ_b&t=23621）
+      4. 2022WTT球星赛·多哈站 资格赛第二轮 [Cristian PLETEA 0-3 刘丁硕](https://www.youtube.com/watch?v=xSlhrrW0t9E)
 
 
 ### 男双
