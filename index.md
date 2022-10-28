@@ -426,7 +426,7 @@
 <center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center>
   + 比赛时间：2022.9.14 12:40（北京时间）
   + 比赛桌次：T1
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛阿拉木图站资格赛Day2男单回放：刘夜泊3:0皮斯特耶](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745690084)
   + 对手信息：1984-03-1406 右手横板
     + 对手近期战绩
       1. 2022WTT支线赛·奥洛穆茨站 1/8决赛 [Lubomir PISTEJ 3-4 Robert GARDOS](https://youtu.be/odtQlaWv9Qg?t=33320)
@@ -440,11 +440,11 @@
 
 
 #### 第三轮 刘夜泊 vs Cristian PLETEA（罗马尼亚） 🇷🇴
-<!--   + 比赛结果：**刘夜泊 3-0 Lubomir PISTEJ**（8,5,9） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊 2-3 Cristian PLETEA**（4,-9,8,-8,-9）
+<center><img src="https://user-images.githubusercontent.com/111751177/198448839-63b27ed8-13dc-44f4-8cda-f8a1fdc668d9.png" width="70%"></center>
   + 比赛时间：2022.9.14 19:20（北京时间）
   + 比赛桌次：T1
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛阿拉木图站资格赛Day2男单回放：刘夜泊2:3派利迪](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745754002)
   + 对手信息：2000-05-28 左手横板
     + 对手近期战绩
       1. 2022WTT支线赛·布达佩斯站 正赛第一轮 [Cristian PLETEA 0-4 杜达]()无视频
@@ -463,12 +463,12 @@
 
 
 #### 第二轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
-<!--   + 比赛结果：**刘夜泊/严升  徐海东/梁俨苧**（） -->
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊/严升 1-3 徐海东/梁俨苧**（-7,7,-7,-6）
+<center><img src="https://user-images.githubusercontent.com/111751177/198450918-40d7b072-d079-4537-8131-9d21f39465de.png" width="70%"></center>
 
   + 比赛时间：2022.9.14 15:20（北京时间）
   + 比赛桌次：T4
-  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 视频回放：[2022WTT常规挑战赛阿拉木图站资格赛Day2男双回放：严升/刘夜泊1:3徐海东/梁俨苧](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745720837)
   + 对手信息：徐海东 2000-06-12 右手直板 / 梁俨苧 2001-02-03 右手横板
     + 对手近期战绩
       1. WTT常规挑战赛·马斯喀特站 半决赛 [徐海东/梁俨苧 1-3 李尚洙/安宰贤（韩国）](https://www.youtube.com/watch?v=IG_uMriqFz8)
