@@ -346,7 +346,7 @@
 <center><img src="https://user-images.githubusercontent.com/111751177/189530624-d0b328c4-6dc2-4664-accd-a2a77317df6f.png" width="70%"></center>
 
 #### 1/8决赛 刘夜泊/陈幸同 vs 梁俨苧/臧小桐
-  + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（9,8,3）
+  + 比赛结果：**刘夜泊/陈幸同 3-1 梁俨苧/臧小桐**（8,9,-13,5）
 <center><img src="https://user-images.githubusercontent.com/111751177/188901180-492df222-56d6-42b1-9c69-b32ec2279b86.png" width="70%"></center>
 
   + 比赛时间：2022.9.7 20:00（北京时间）
@@ -382,7 +382,7 @@
 
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
-  + 比赛结果：**刘夜泊/陈幸同 3-1 徐海东/吴洋晨**（11,9,9） 🥇
+
 <center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center>
 
 
