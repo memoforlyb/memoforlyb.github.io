@@ -382,7 +382,7 @@
 
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
-
++ 比赛结果：**刘夜泊/陈幸同 3-1 徐海东/吴洋晨**（-10,9,7,10） 🥇
 <center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center>
 
 
