@@ -303,8 +303,8 @@
       4. 2021WTT世界杯总决赛·新加坡站 [李尚洙 1-3 郑荣植（韩国）](https://youtu.be/-Lpmf80ip_A)
 
 #### 1/8决赛 刘夜泊 vs Kanak JHA（美国）
-  + 比赛结果：**刘夜泊 2-3 Kanak JHA**（5,3,8）
-<!-- <center><img src="https://user-images.githubusercontent.com/111751177/189530478-11b95c0e-206d-4453-acad-64003896518f.png" width="70%"></center> -->
+  + 比赛结果：**刘夜泊 2-3 Kanak JHA**（4,12,-11,-8,-10）
+<center><img src="https://user-images.githubusercontent.com/111751177/189530478-11b95c0e-206d-4453-acad-64003896518f.png" width="70%"></center>
 
 
   + 比赛时间：2022.9.9 14:00（北京时间）
