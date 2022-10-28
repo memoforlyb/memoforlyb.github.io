@@ -1,6 +1,7 @@
 # 赛事纪录簿
 链接 [https://memoforlyb.github.io/](https://memoforlyb.github.io/)
 
+
 # 食用指南：
 >【赛事概况】【比赛时间桌次】【视频回放】【对手基本信息】【对手近期战况（含视频直达连接）】
 
@@ -13,7 +14,8 @@
 
 - [2022WTT支线赛·奥洛穆茨站（捷克）](#2022WTT支线赛·奥洛穆茨站（捷克）)
 - [2022WTT支线赛·帕纳久里什泰站（保加利亚）](#2022WTT支线赛·帕纳久里什泰站（保加利亚）)
-- [WTT常规挑战赛·马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)
+- [2022WTT常规挑战赛·马斯喀特站（阿曼）](#2022WTT常规挑战赛·马斯喀特站（阿曼）)
+- [2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）](#2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）)
 
 ---
 
@@ -198,9 +200,9 @@
       1. [2022WTT支线赛·帕纳久里什泰站（保加利亚）资格赛 第一轮 梁俨苧/冷雨桐 3-1 黄毓仁/苏珮绫（中国台北）](https://m.miguvideo.com/mgs/msite/prd/detail.html?channelid=10010001004&cid=743885824&sharefrom=miguvideoapp&sysfrom=ios&appfrom=miguvideo&pwId=e2f28ddc8d7b45abb9fe42c589165985)
 
 
-[WTT常规挑战赛·马斯喀特站（阿曼）](#WTT常规挑战赛·马斯喀特站（阿曼）)<span id="WTT常规挑战赛·马斯喀特站（阿曼）"></span>
+[2022WTT常规挑战赛·马斯喀特站（阿曼）](#2022WTT常规挑战赛·马斯喀特站（阿曼）)<span id="2022WTT常规挑战赛·马斯喀特站（阿曼）"></span>
 
-## WTT常规挑战赛·马斯喀特站（阿曼）
+## 2022WTT常规挑战赛·马斯喀特站（阿曼）
 >赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
 >
 >参赛项目：男单、男双（搭档周启豪）、混双（搭档陈幸同）
@@ -380,11 +382,93 @@
 
 
 #### 决赛 刘夜泊/陈幸同 vs 徐海东/吴洋晨
-  + 比赛结果：**刘夜泊/陈幸同 3-1 徐海东/吴洋晨**（-10,9,7,10） 🥇
+
 <center><img src="https://user-images.githubusercontent.com/111751177/189530575-f560e825-b9fe-48a7-bb9d-f08a2ce21cbb.png" width="70%"></center>
 
 
-  + 比赛时间：2022.9.10 00:40（北京时间）
   + 比赛桌次：T1
   + 视频回放：[2022WTT常规挑战赛马斯喀特站正赛Day3混双决赛回放：刘夜泊/陈幸同3:1徐海东/吴洋晨](https://www.migu.cn/video/detail/1301200001121060200.html)
   + 对手信息：徐海东 2000-06-12 右手直板 / 吴洋晨 2002-01-03 右手直板
+
+---
+
+[2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）](#2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）)<span id="2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）"></span>
+
+## 2022WTT常规挑战赛·阿拉木图站（哈萨克斯坦）
+>赛事官网：[https://worldtabletennis.com/eventInfo?eventId=2605](https://worldtabletennis.com/eventInfo?eventId=2605)
+>
+>参赛项目：男单、男双（搭档严升）
+>
+>比赛日期：2022.9.13-2022.9.18
+>
+>时差：北京时间-2h
+>
+>场馆：Table Tennis Centre ADD, Almaty, Kazakhstan
+
+### 男单资格赛
+#### 资格赛签表
+
+<center><img src="https://user-images.githubusercontent.com/111751177/190075497-309380cb-f1e6-4306-b3b0-fdc162a9afa1.png" width="70%"></center>
+
+
+#### 第一轮 刘夜泊 vs Irisbek ARTUKMETOV（哈萨克斯坦）  🇰🇿
+  + 比赛结果：**刘夜泊 3-0 Irisbek ARTUKMETOV**（6,5,4）
+<center><img src="https://user-images.githubusercontent.com/111751177/189910527-5a15824d-e40a-46f4-b303-d70fa0051f2c.png" width="70%"></center>
+
+  + 比赛时间：2022.9.13 17:05（北京时间）
+  + 比赛桌次：T1
+  + 视频回放：[2022WTT常规挑战赛阿拉木图站资格赛Day1男单回放：刘夜泊3:0阿图克梅托夫](https://www.miguvideo.com/mgs/website/prd/detail.html?cid=745602046)
+  + 对手信息：2000-08-18 左手横板
+
+
+#### 第二轮 刘夜泊 vs Lubomir PISTEJ（斯洛伐克） 🇸🇰
+  + 比赛结果：**刘夜泊 3-0 Lubomir PISTEJ**（8,5,9）
+<center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center>
+  + 比赛时间：2022.9.14 12:40（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：1984-03-1406 右手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·奥洛穆茨站 1/8决赛 [Lubomir PISTEJ 3-4 Robert GARDOS](https://youtu.be/odtQlaWv9Qg?t=33320)
+      2. 2022WTT支线赛·奥洛穆茨站 1/16决赛 [Lubomir PISTEJ 4-3 Deni KOZUL（斯洛文尼亚）](https://youtu.be/J9I66MrIGzk?t=2835)
+      3. 2022WTT支线赛·奥洛穆茨站 正赛第一轮 [Lubomir PISTEJ 4-1 陈建安（中国台北）](无视频)无视频
+      4. 2022WTT常规站·突尼斯站 资格赛 第二轮  [Lubomir PISTEJ 0-3 薛飞](https://www.youtube.com/watch?v=GriswrKFtV4&t=52s)
+      5. 2022WTT支线站·布达佩斯站 正赛第一轮  [Lubomir PISTEJ 0-4 孟凡博（德国）](无视频)无视频
+      6. 2022WTT球星赛·布达佩斯站 正赛第一轮  [Lubomir PISTEJ 0-3 阿昌塔（印度）](https://youtu.be/A9_EtZhVHuU?t=10568)
+      7. 2022WTT球星赛·多哈站 资格赛第一轮  [Lubomir PISTEJ 1-3 陈垣宇](https://www.youtube.com/watch?v=PuFDOOtUOac)
+      8. 2022WTT大满贯·新加坡站 资格赛第三轮 [Lubomir PISTEJ 0-3 向鹏](https://www.youtube.com/watch?v=N95W6e_SPv8)
+
+
+#### 第三轮 刘夜泊 vs Cristian PLETEA（罗马尼亚） 🇷🇴
+<!--   + 比赛结果：**刘夜泊 3-0 Lubomir PISTEJ**（8,5,9） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/190066323-daad7d6c-688e-43b5-8825-3e1431c0d42f.png" width="70%"></center> -->
+  + 比赛时间：2022.9.14 19:20（北京时间）
+  + 比赛桌次：T1
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：2000-05-28 左手横板
+    + 对手近期战绩
+      1. 2022WTT支线赛·布达佩斯站 正赛第一轮 [Cristian PLETEA 0-4 杜达]()无视频
+      2. 2022WTT支线赛·韦斯切斯特站 1/8决赛 [Cristian PLETEA 0-4 田中佑汰](https://www.youtube.com/watch?v=v86naxSlBTU)
+      3. 2022WTT支线赛·费利蒙站1/16决赛 [Cristian PLETEA 1-4 筱冢大登](https://youtu.be/HVI891WxrLc?list=PLIl_mJ3zK7B8uKZXPkki3uQ4plgHkEZ_b&t=23621)
+      5. 2022WTT球星赛·多哈站 资格赛第二轮 [Cristian PLETEA 0-3 刘丁硕](https://www.youtube.com/watch?v=xSlhrrW0t9E)
+
+
+### 男双
+#### 资格赛签表
+
+<center><img src="https://user-images.githubusercontent.com/111751177/189531152-5928c454-042b-48de-8ecc-a76dafb8b94e.png" width="70%"></center>
+
+
+#### 第一轮 轮空
+
+
+#### 第二轮 刘夜泊/严升 vs 徐海东/梁俨苧 🇨🇳
+<!--   + 比赛结果：**刘夜泊/严升  徐海东/梁俨苧**（） -->
+<!-- <center><img src="https://user-images.githubusercontent.com/111751177/188900835-1e49e731-6b57-42da-97e5-10f0b4234ce7.png" width="70%"></center> -->
+
+  + 比赛时间：2022.9.14 15:20（北京时间）
+  + 比赛桌次：T4
+  + 直播平台：[咪咕视频](https://www.miguvideo.com/mgs/website/prd/sportsHomePage.html)
+  + 对手信息：徐海东 2000-06-12 右手直板 / 梁俨苧 2001-02-03 右手横板
+    + 对手近期战绩
+      1. WTT常规挑战赛·马斯喀特站 半决赛 [徐海东/梁俨苧 1-3 李尚洙/安宰贤（韩国）](https://www.youtube.com/watch?v=IG_uMriqFz8)
